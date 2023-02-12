@@ -1,0 +1,1503 @@
+2023-02-12 09:13:34 MST | __main__ | solve -->  1 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  1 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  1 to_col is['W', 'Q', 'N', 'J', 'F', 'M', 'L', 'D', 'C', 'L', 'G', 'H', 'N', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  2 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  2 from_col is['P', 'G', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  2 to_col is['W', 'Q', 'N', 'J', 'F', 'M', 'L', 'D', 'C', 'L', 'G', 'H', 'N', 'S', 'M', 'C', 'V', 'D', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  3 last non_empty index is 18
+2023-02-12 09:13:34 MST | __main__ | solve -->  3 from_col is['W', 'Q', 'N', 'J', 'F', 'M', 'L', 'D', 'C', 'L', 'G', 'H', 'N', 'S', 'M', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  3 to_col is['F', 'S', 'P', 'Q', 'B', 'T', 'Z', 'M', 'T', 'D', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  4 last non_empty index is 15
+2023-02-12 09:13:34 MST | __main__ | solve -->  4 from_col is['W', 'Q', 'N', 'J', 'F', 'M', 'L', 'D', 'C', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  4 to_col is['P', 'C', 'J', 'B', 'C', 'M', 'S', 'N', 'H', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  5 last non_empty index is 9
+2023-02-12 09:13:34 MST | __main__ | solve -->  5 from_col is['W']
+2023-02-12 09:13:34 MST | __main__ | solve -->  5 to_col is['L', 'C', 'D', 'L', 'M', 'F', 'J', 'N', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  6 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  6 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  6 to_col is['L', 'C', 'D', 'L', 'M', 'F', 'J', 'N', 'Q', 'V', 'R', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  7 last non_empty index is 9
+2023-02-12 09:13:34 MST | __main__ | solve -->  7 from_col is['P', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  7 to_col is['L', 'C', 'D', 'L', 'M', 'F', 'J', 'N', 'Q', 'V', 'R', 'N', 'G', 'H', 'N', 'S', 'M', 'C', 'B', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  8 last non_empty index is 19
+2023-02-12 09:13:34 MST | __main__ | solve -->  8 from_col is['L', 'C', 'D', 'L', 'M', 'F', 'J', 'N', 'Q', 'V', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  8 to_col is['Z', 'P', 'M', 'H', 'R', 'J', 'B', 'C', 'M', 'S', 'N', 'H', 'G', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  9 last non_empty index is 10
+2023-02-12 09:13:34 MST | __main__ | solve -->  9 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  9 to_col is['P', 'G', 'L', 'R', 'V', 'Q', 'N', 'J', 'F', 'M', 'L', 'D', 'C', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  10 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  10 from_col is['T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  10 to_col is['W', 'G', 'B', 'Z', 'S', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  11 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  11 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  11 to_col is['T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  12 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  12 from_col is['P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  12 to_col is['C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  13 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  13 from_col is['F', 'T', 'M', 'D', 'Q', 'S', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  13 to_col is['P', 'G', 'L', 'R', 'V', 'Q', 'N', 'J', 'F', 'M', 'L', 'D', 'C', 'L', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  14 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  14 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  14 to_col is['W', 'G', 'B', 'Z', 'S', 'F', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  15 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  15 from_col is['F', 'T', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  15 to_col is['R', 'S', 'Q', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  16 last non_empty index is 14
+2023-02-12 09:13:34 MST | __main__ | solve -->  16 from_col is['P', 'G', 'L', 'R', 'V', 'Q', 'N', 'J', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  16 to_col is['R', 'S', 'Q', 'D', 'L', 'L', 'C', 'D', 'L', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  17 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  17 from_col is['P', 'G', 'L', 'R', 'V', 'Q', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  17 to_col is['P', 'F', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  18 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  18 from_col is['W', 'G', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  18 to_col is['R', 'S', 'Q', 'D', 'L', 'L', 'C', 'D', 'L', 'M', 'T', 'F', 'S', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  19 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  19 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  19 to_col is['F', 'S', 'P', 'Q', 'B', 'T', 'Z', 'M', 'T', 'D', 'V', 'J', 'F', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  20 last non_empty index is 13
+2023-02-12 09:13:34 MST | __main__ | solve -->  20 from_col is['F', 'S', 'P', 'Q', 'B', 'T', 'Z', 'M', 'T', 'D', 'V', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  20 to_col is['F', 'T', 'M', 'P', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  21 last non_empty index is 13
+2023-02-12 09:13:34 MST | __main__ | solve -->  21 from_col is['R', 'S', 'Q', 'D', 'L', 'L', 'C', 'D', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  21 to_col is['F', 'T', 'M', 'P', 'F', 'Z', 'S', 'F', 'T', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  22 last non_empty index is 13
+2023-02-12 09:13:34 MST | __main__ | solve -->  22 from_col is['Z', 'P', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  22 to_col is['F', 'T', 'M', 'P', 'F', 'Z', 'S', 'F', 'T', 'M', 'N', 'G', 'H', 'N', 'S', 'M', 'C', 'B', 'J', 'R', 'H']
+2023-02-12 09:13:34 MST | __main__ | solve -->  23 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  23 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  23 to_col is['C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  24 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  24 from_col is['R', 'S', 'Q', 'D', 'L', 'L', 'C', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  24 to_col is['F', 'S', 'P', 'Q', 'B', 'T', 'Z', 'M', 'T', 'D', 'V', 'J', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  25 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  25 from_col is['Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  25 to_col is['W', 'G', 'B', 'M', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  26 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  26 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  26 to_col is['F', 'T', 'M', 'P', 'F', 'Z', 'S', 'F', 'T', 'M', 'N', 'G', 'H', 'N', 'S', 'M', 'C', 'B', 'J', 'R', 'H', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  27 last non_empty index is 12
+2023-02-12 09:13:34 MST | __main__ | solve -->  27 from_col is['F', 'S', 'P', 'Q', 'B', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  27 to_col is['P', 'G', 'L', 'R', 'V', 'Q', 'N', 'L', 'J', 'V', 'D', 'T', 'M', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  28 last non_empty index is 21
+2023-02-12 09:13:34 MST | __main__ | solve -->  28 from_col is['F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  28 to_col is['C', 'Z', 'H', 'R', 'J', 'B', 'C', 'M', 'S', 'N', 'H', 'G', 'N', 'M', 'T', 'F', 'S', 'Z', 'F', 'P', 'M', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  29 last non_empty index is 21
+2023-02-12 09:13:34 MST | __main__ | solve -->  29 from_col is['C', 'Z', 'H', 'R', 'J', 'B', 'C', 'M', 'S', 'N', 'H', 'G', 'N', 'M', 'T', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  29 to_col is['T', 'M', 'P', 'F', 'Z', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  30 last non_empty index is 13
+2023-02-12 09:13:34 MST | __main__ | solve -->  30 from_col is['P', 'G', 'L', 'R', 'V', 'Q', 'N', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  30 to_col is['W', 'G', 'B', 'M', 'P', 'Z', 'M', 'T', 'D', 'V', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  31 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  31 from_col is['P', 'G', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  31 to_col is['F', 'S', 'P', 'Q', 'B', 'T', 'L', 'N', 'Q', 'V', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  32 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  32 from_col is['T', 'M', 'P', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  32 to_col is['S', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  33 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  33 from_col is['R', 'S', 'Q', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  33 to_col is['S', 'Z', 'D', 'C', 'L', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  34 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  34 from_col is['T', 'M', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  34 to_col is['C', 'Z', 'H', 'R', 'J', 'B', 'C', 'M', 'S', 'N', 'H', 'G', 'N', 'M', 'T', 'F', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  35 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  35 from_col is['T', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  35 to_col is['F', 'S', 'P', 'Q', 'B', 'T', 'L', 'N', 'Q', 'V', 'R', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  36 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  36 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  36 to_col is['S', 'Z', 'D', 'C', 'L', 'L', 'M', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  37 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  37 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  37 to_col is['S', 'Z', 'D', 'C', 'L', 'L', 'M', 'T', 'D', 'Q', 'S', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  38 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  38 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  38 to_col is['C', 'Z', 'H', 'R', 'J', 'B', 'C', 'M', 'S', 'N', 'H', 'G', 'N', 'M', 'T', 'F', 'F', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  39 last non_empty index is 11
+2023-02-12 09:13:34 MST | __main__ | solve -->  39 from_col is['F', 'S', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  39 to_col is['P', 'R', 'V', 'Q', 'N', 'L', 'T', 'B', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  40 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  40 from_col is['P', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  40 to_col is['Q', 'B', 'T', 'L', 'N', 'Q', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  41 last non_empty index is 11
+2023-02-12 09:13:34 MST | __main__ | solve -->  41 from_col is['S', 'Z', 'D', 'C', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  41 to_col is['P', 'R', 'R', 'S', 'Q', 'D', 'T', 'M', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  42 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  42 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  42 to_col is['V', 'Q', 'N', 'L', 'T', 'B', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  43 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  43 from_col is['P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  43 to_col is['F', 'S', 'P', 'L', 'M', 'T', 'D', 'Q', 'S', 'R', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  44 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  44 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  44 to_col is['F', 'S', 'P', 'L', 'M', 'T', 'D', 'Q', 'S', 'R', 'R', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  45 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  45 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  45 to_col is['L', 'G', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  46 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  46 from_col is['L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  46 to_col is['W', 'G', 'B', 'M', 'P', 'Z', 'M', 'T', 'D', 'V', 'J', 'P', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  47 last non_empty index is 12
+2023-02-12 09:13:34 MST | __main__ | solve -->  47 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  47 to_col is['G', 'P', 'J', 'V', 'D', 'T', 'M', 'Z', 'P', 'M', 'B', 'G', 'W']
+2023-02-12 09:13:34 MST | __main__ | solve -->  48 last non_empty index is 11
+2023-02-12 09:13:34 MST | __main__ | solve -->  48 from_col is['F', 'S', 'P', 'L', 'M', 'T', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  48 to_col is['P', 'R', 'R', 'S', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  49 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  49 from_col is['S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  49 to_col is['C', 'Z', 'H', 'R', 'J', 'B', 'C', 'M', 'S', 'N', 'H', 'G', 'N', 'M', 'T', 'F', 'F', 'F', 'L', 'C', 'D', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  50 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  50 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  50 to_col is['G', 'P', 'J', 'V', 'D', 'T', 'M', 'Z', 'P', 'M', 'B', 'G', 'W', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  51 last non_empty index is 13
+2023-02-12 09:13:34 MST | __main__ | solve -->  51 from_col is['G', 'P', 'J', 'V', 'D', 'T', 'M', 'Z', 'P', 'M', 'B', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  51 to_col is['L', 'S', 'W']
+2023-02-12 09:13:34 MST | __main__ | solve -->  52 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  52 from_col is['P', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  52 to_col is['G', 'P', 'J', 'V', 'D', 'T', 'M', 'Z', 'P', 'M', 'B', 'G', 'Q', 'S', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  53 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  53 from_col is['F', 'S', 'P', 'L', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  53 to_col is['L', 'S', 'W', 'D', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  54 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  54 from_col is['V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  54 to_col is['Q', 'B', 'T', 'L', 'N', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  55 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  55 from_col is['L', 'S', 'W', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  55 to_col is['T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  56 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  56 from_col is['P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  56 to_col is['T', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  57 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  57 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  57 to_col is['C', 'Z', 'H', 'R', 'J', 'B', 'C', 'M', 'S', 'N', 'H', 'G', 'N', 'M', 'T', 'F', 'F', 'F', 'L', 'C', 'D', 'Z', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  58 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  58 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  58 to_col is['G', 'P', 'J', 'V', 'D', 'T', 'M', 'Z', 'P', 'M', 'B', 'G', 'Q', 'S', 'R', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  59 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  59 from_col is['L', 'S', 'W']
+2023-02-12 09:13:34 MST | __main__ | solve -->  59 to_col is['C', 'Z', 'H', 'R', 'J', 'B', 'C', 'M', 'S', 'N', 'H', 'G', 'N', 'M', 'T', 'F', 'F', 'F', 'L', 'C', 'D', 'Z', 'V', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  60 last non_empty index is 23
+2023-02-12 09:13:34 MST | __main__ | solve -->  60 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  60 to_col is['D', 'V', 'Z', 'D', 'C', 'L', 'F', 'F', 'F', 'T', 'M', 'N', 'G', 'H', 'N', 'S', 'M', 'C', 'B', 'J', 'R', 'H', 'Z', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  61 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  61 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  61 to_col is['W', 'S', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  62 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  62 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  62 to_col is['F', 'S', 'P', 'L', 'M', 'L', 'S', 'W']
+2023-02-12 09:13:34 MST | __main__ | solve -->  63 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  63 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  63 to_col is['R', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  64 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  64 from_col is['F', 'S', 'P', 'L', 'M', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  64 to_col is['G', 'P', 'J', 'V', 'D', 'T', 'M', 'Z', 'P', 'M', 'B', 'G', 'Q', 'S', 'R', 'P', 'W', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  65 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  65 from_col is['F', 'S', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  65 to_col is['D', 'V', 'Z', 'D', 'C', 'L', 'F', 'F', 'F', 'T', 'M', 'N', 'G', 'H', 'N', 'S', 'M', 'C', 'B', 'J', 'R', 'H', 'Z', 'C', 'L', 'M', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  66 last non_empty index is 17
+2023-02-12 09:13:34 MST | __main__ | solve -->  66 from_col is['G', 'P', 'J', 'V', 'D', 'T', 'M', 'Z', 'P', 'M', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  66 to_col is['S', 'W', 'P', 'R', 'S', 'Q', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  67 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  67 from_col is['S', 'W', 'P', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  67 to_col is['G', 'Q', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  68 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  68 from_col is['G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  68 to_col is['F', 'S', 'P', 'S', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  69 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  69 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  69 to_col is['T', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  70 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  70 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  70 to_col is['S', 'W', 'P', 'R', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  71 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  71 from_col is['Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  71 to_col is['F', 'S', 'P', 'S', 'Q', 'Q', 'N', 'L', 'T', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  72 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  72 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  72 to_col is['D', 'V', 'Z', 'D', 'C', 'L', 'F', 'F', 'F', 'T', 'M', 'N', 'G', 'H', 'N', 'S', 'M', 'C', 'B', 'J', 'R', 'H', 'Z', 'C', 'L', 'M', 'L', 'R', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  73 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  73 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  73 to_col is['D', 'V', 'Z', 'D', 'C', 'L', 'F', 'F', 'F', 'T', 'M', 'N', 'G', 'H', 'N', 'S', 'M', 'C', 'B', 'J', 'R', 'H', 'Z', 'C', 'L', 'M', 'L', 'R', 'T', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  74 last non_empty index is 10
+2023-02-12 09:13:34 MST | __main__ | solve -->  74 from_col is['G', 'P', 'J', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  74 to_col is['B', 'M', 'P', 'Z', 'M', 'T', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  75 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  75 from_col is['G', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  75 to_col is['S', 'W', 'P', 'R', 'G', 'V', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  76 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  76 from_col is['S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  76 to_col is['J', 'V', 'G', 'R', 'P', 'W']
+2023-02-12 09:13:34 MST | __main__ | solve -->  77 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  77 from_col is['J', 'V', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  77 to_col is['W', 'P', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  78 last non_empty index is 9
+2023-02-12 09:13:34 MST | __main__ | solve -->  78 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  78 to_col is['D', 'V', 'Z', 'D', 'C', 'L', 'F', 'F', 'F', 'T', 'M', 'N', 'G', 'H', 'N', 'S', 'M', 'C', 'B', 'J', 'R', 'H', 'Z', 'C', 'L', 'M', 'L', 'R', 'T', 'Q', 'B', 'T', 'L', 'N', 'Q', 'Q', 'S', 'P', 'S', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  79 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  79 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  79 to_col is['D', 'V', 'Z', 'D', 'C', 'L', 'F', 'F', 'F', 'T', 'M', 'N', 'G', 'H', 'N', 'S', 'M', 'C', 'B', 'J', 'R', 'H', 'Z', 'C', 'L', 'M', 'L', 'R', 'T', 'Q', 'B', 'T', 'L', 'N', 'Q', 'Q', 'S', 'P', 'S', 'F', 'D', 'T', 'M', 'Z', 'P', 'M', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  80 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  80 from_col is['G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  80 to_col is['W', 'P', 'R', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  81 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  81 from_col is['J', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  81 to_col is['G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  82 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  82 from_col is['W', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  82 to_col is['P', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  83 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  83 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  83 to_col is['G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  84 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  84 from_col is['W']
+2023-02-12 09:13:34 MST | __main__ | solve -->  84 to_col is['P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  85 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  85 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  85 to_col is['P', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  86 last non_empty index is 46
+2023-02-12 09:13:34 MST | __main__ | solve -->  86 from_col is['D', 'V', 'Z', 'D', 'C', 'L', 'F', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  86 to_col is['B', 'M', 'P', 'Z', 'M', 'T', 'D', 'F', 'S', 'P', 'S', 'Q', 'Q', 'N', 'L', 'T', 'B', 'Q', 'T', 'R', 'L', 'M', 'L', 'C', 'Z', 'H', 'R', 'J', 'B', 'C', 'M', 'S', 'N', 'H', 'G', 'N', 'M', 'T', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  87 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  87 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  87 to_col is['P', 'S', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  88 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  88 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  88 to_col is['W', 'V', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  89 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  89 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  89 to_col is['P', 'S', 'G', 'J', 'V', 'W']
+2023-02-12 09:13:34 MST | __main__ | solve -->  90 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  90 from_col is['D', 'V', 'Z', 'D', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  90 to_col is['F', 'F', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  91 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  91 from_col is['P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  91 to_col is['R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  92 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  92 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  92 to_col is['R', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  93 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  93 from_col is['F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  93 to_col is['R', 'G', 'L', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  94 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  94 from_col is['R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  94 to_col is['F', 'L', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  95 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  95 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  95 to_col is['R', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  96 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  96 from_col is['D', 'V', 'Z', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  96 to_col is['B', 'M', 'P', 'Z', 'M', 'T', 'D', 'F', 'S', 'P', 'S', 'Q', 'Q', 'N', 'L', 'T', 'B', 'Q', 'T', 'R', 'L', 'M', 'L', 'C', 'Z', 'H', 'R', 'J', 'B', 'C', 'M', 'S', 'N', 'H', 'G', 'N', 'M', 'T', 'F', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  97 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  97 from_col is['D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  97 to_col is['R', 'F', 'D', 'Z', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  98 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  98 from_col is['R', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  98 to_col is['V', 'Z', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  99 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  99 from_col is['V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  99 to_col is['P', 'S', 'G', 'J', 'V', 'W', 'D', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  100 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  100 from_col is['F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  100 to_col is['B', 'M', 'P', 'Z', 'M', 'T', 'D', 'F', 'S', 'P', 'S', 'Q', 'Q', 'N', 'L', 'T', 'B', 'Q', 'T', 'R', 'L', 'M', 'L', 'C', 'Z', 'H', 'R', 'J', 'B', 'C', 'M', 'S', 'N', 'H', 'G', 'N', 'M', 'T', 'F', 'C', 'G', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  101 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  101 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  101 to_col is['R', 'F', 'Z', 'D', 'W', 'V', 'J', 'G', 'S', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  102 last non_empty index is 41
+2023-02-12 09:13:34 MST | __main__ | solve -->  102 from_col is['B', 'M', 'P', 'Z', 'M', 'T', 'D', 'F', 'S', 'P', 'S', 'Q', 'Q', 'N', 'L', 'T', 'B', 'Q', 'T', 'R', 'L', 'M', 'L', 'C', 'Z', 'H', 'R', 'J', 'B', 'C', 'M', 'S', 'N', 'H']
+2023-02-12 09:13:34 MST | __main__ | solve -->  102 to_col is['R', 'F', 'Z', 'D', 'W', 'V', 'J', 'G', 'S', 'P', 'L', 'G', 'C', 'F', 'T', 'M', 'N', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  103 last non_empty index is 17
+2023-02-12 09:13:34 MST | __main__ | solve -->  103 from_col is['R', 'F', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  103 to_col is['P', 'G', 'N', 'M', 'T', 'F', 'C', 'G', 'L', 'P', 'S', 'G', 'J', 'V', 'W', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  104 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  104 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  104 to_col is['D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  105 last non_empty index is 33
+2023-02-12 09:13:34 MST | __main__ | solve -->  105 from_col is['B', 'M', 'P', 'Z', 'M', 'T', 'D', 'F', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  105 to_col is['P', 'G', 'N', 'M', 'T', 'F', 'C', 'G', 'L', 'P', 'S', 'G', 'J', 'V', 'W', 'D', 'H', 'N', 'S', 'M', 'C', 'B', 'J', 'R', 'H', 'Z', 'C', 'L', 'M', 'L', 'R', 'T', 'Q', 'B', 'T', 'L', 'N', 'Q', 'Q', 'S', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  106 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  106 from_col is['R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  106 to_col is['V', 'Z', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  107 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  107 from_col is['V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  107 to_col is['F', 'F', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  108 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  108 from_col is['B', 'M', 'P', 'Z', 'M', 'T', 'D', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  108 to_col is['V', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  109 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  109 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  109 to_col is['S', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  110 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  110 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  110 to_col is['R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  111 last non_empty index is 40
+2023-02-12 09:13:34 MST | __main__ | solve -->  111 from_col is['P', 'G', 'N', 'M', 'T', 'F', 'C', 'G', 'L', 'P', 'S', 'G', 'J', 'V', 'W']
+2023-02-12 09:13:34 MST | __main__ | solve -->  111 to_col is['P', 'S', 'Q', 'Q', 'N', 'L', 'T', 'B', 'Q', 'T', 'R', 'L', 'M', 'L', 'C', 'Z', 'H', 'R', 'J', 'B', 'C', 'M', 'S', 'N', 'H', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  112 last non_empty index is 25
+2023-02-12 09:13:34 MST | __main__ | solve -->  112 from_col is['P', 'S', 'Q', 'Q', 'N', 'L', 'T', 'B', 'Q', 'T', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  112 to_col is['R', 'D', 'H', 'N', 'S', 'M', 'C', 'B', 'J', 'R', 'H', 'Z', 'C', 'L', 'M', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  113 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  113 from_col is['B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  113 to_col is['F', 'D', 'T', 'M', 'Z', 'P', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  114 last non_empty index is 15
+2023-02-12 09:13:34 MST | __main__ | solve -->  114 from_col is['R', 'D', 'H', 'N', 'S', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  114 to_col is['S', 'V', 'L', 'M', 'L', 'C', 'Z', 'H', 'R', 'J', 'B', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  115 last non_empty index is 14
+2023-02-12 09:13:34 MST | __main__ | solve -->  115 from_col is['P', 'G', 'N', 'M', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  115 to_col is['P', 'S', 'Q', 'Q', 'N', 'L', 'T', 'B', 'Q', 'T', 'R', 'W', 'V', 'J', 'G', 'S', 'P', 'L', 'G', 'C', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  116 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  116 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  116 to_col is['R', 'D', 'H', 'N', 'S', 'M', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  117 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  117 from_col is['F', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  117 to_col is['M', 'P', 'Z', 'M', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  118 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  118 from_col is['M', 'P', 'Z', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  118 to_col is['F', 'D', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  119 last non_empty index is 11
+2023-02-12 09:13:34 MST | __main__ | solve -->  119 from_col is['S', 'V', 'L', 'M', 'L', 'C', 'Z', 'H', 'R', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  119 to_col is['F', 'D', 'T', 'C', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  120 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  120 from_col is['P', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  120 to_col is['R', 'D', 'H', 'N', 'S', 'M', 'B', 'T', 'M', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  121 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  121 from_col is['P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  121 to_col is['R', 'D', 'H', 'N', 'S', 'M', 'B', 'T', 'M', 'N', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  122 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  122 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  122 to_col is['P', 'S', 'Q', 'Q', 'N', 'L', 'T', 'B', 'Q', 'T', 'R', 'W', 'V', 'J', 'G', 'S', 'P', 'L', 'G', 'C', 'F', 'B', 'C', 'T', 'D', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  123 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  123 from_col is['F', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  123 to_col is['R', 'D', 'H', 'N', 'S', 'M', 'B', 'T', 'M', 'N', 'G', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  124 last non_empty index is 9
+2023-02-12 09:13:34 MST | __main__ | solve -->  124 from_col is['S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  124 to_col is['F', 'F', 'J', 'R', 'H', 'Z', 'C', 'L', 'M', 'L', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  125 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  125 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  125 to_col is['R', 'D', 'H', 'N', 'S', 'M', 'B', 'T', 'M', 'N', 'G', 'Z', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  126 last non_empty index is 25
+2023-02-12 09:13:34 MST | __main__ | solve -->  126 from_col is['P', 'S', 'Q', 'Q', 'N', 'L', 'T', 'B', 'Q', 'T', 'R', 'W', 'V', 'J', 'G', 'S', 'P', 'L', 'G', 'C', 'F', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  126 to_col is['F', 'D', 'T', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  127 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  127 from_col is['F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  127 to_col is['M', 'P', 'Z', 'M', 'C', 'T', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  128 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  128 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  128 to_col is['R', 'D', 'H', 'N', 'S', 'M', 'B', 'T', 'M', 'N', 'G', 'Z', 'S', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  129 last non_empty index is 10
+2023-02-12 09:13:34 MST | __main__ | solve -->  129 from_col is['F', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  129 to_col is['R', 'D', 'H', 'N', 'S', 'M', 'B', 'T', 'M', 'N', 'G', 'Z', 'S', 'F', 'V', 'L', 'M', 'L', 'C', 'Z', 'H', 'R', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  130 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  130 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  130 to_col is['P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  131 last non_empty index is 21
+2023-02-12 09:13:34 MST | __main__ | solve -->  131 from_col is['P', 'S', 'Q', 'Q', 'N', 'L', 'T', 'B', 'Q', 'T', 'R', 'W', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  131 to_col is['D', 'B', 'F', 'C', 'G', 'L', 'P', 'S', 'G', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  132 last non_empty index is 22
+2023-02-12 09:13:34 MST | __main__ | solve -->  132 from_col is['R', 'D', 'H', 'N', 'S', 'M', 'B', 'T', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  132 to_col is['P', 'J', 'R', 'H', 'Z', 'C', 'L', 'M', 'L', 'V', 'F', 'S', 'Z', 'G', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  133 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  133 from_col is['F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  133 to_col is['M', 'P', 'Z', 'M', 'C', 'T', 'D', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  134 last non_empty index is 12
+2023-02-12 09:13:34 MST | __main__ | solve -->  134 from_col is['P', 'S', 'Q', 'Q', 'N', 'L', 'T', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  134 to_col is['P', 'J', 'R', 'H', 'Z', 'C', 'L', 'M', 'L', 'V', 'F', 'S', 'Z', 'G', 'N', 'V', 'W', 'R', 'T', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  135 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  135 from_col is['R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  135 to_col is['M', 'P', 'Z', 'M', 'C', 'T', 'D', 'F', 'M', 'T', 'B', 'M', 'S', 'N', 'H', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  136 last non_empty index is 19
+2023-02-12 09:13:34 MST | __main__ | solve -->  136 from_col is['P', 'J', 'R', 'H', 'Z', 'C', 'L', 'M', 'L', 'V', 'F', 'S', 'Z', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  136 to_col is['M', 'P', 'Z', 'M', 'C', 'T', 'D', 'F', 'M', 'T', 'B', 'M', 'S', 'N', 'H', 'D', 'Q', 'T', 'R', 'W', 'V', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  137 last non_empty index is 13
+2023-02-12 09:13:34 MST | __main__ | solve -->  137 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  137 to_col is['G', 'Z', 'S', 'F', 'V', 'L', 'M', 'L', 'C', 'Z', 'H', 'R', 'J', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  138 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  138 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  138 to_col is['G', 'Z', 'S', 'F', 'V', 'L', 'M', 'L', 'C', 'Z', 'H', 'R', 'J', 'P', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  139 last non_empty index is 9
+2023-02-12 09:13:34 MST | __main__ | solve -->  139 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  139 to_col is['J', 'G', 'S', 'P', 'L', 'G', 'C', 'F', 'B', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  140 last non_empty index is 21
+2023-02-12 09:13:34 MST | __main__ | solve -->  140 from_col is['M', 'P', 'Z', 'M', 'C', 'T', 'D', 'F', 'M', 'T', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  140 to_col is['N', 'V', 'W', 'R', 'T', 'Q', 'D', 'H', 'N', 'S', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  141 last non_empty index is 14
+2023-02-12 09:13:34 MST | __main__ | solve -->  141 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  141 to_col is['R', 'P', 'J', 'R', 'H', 'Z', 'C', 'L', 'M', 'L', 'V', 'F', 'S', 'Z', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  142 last non_empty index is 10
+2023-02-12 09:13:34 MST | __main__ | solve -->  142 from_col is['N', 'V', 'W', 'R', 'T', 'Q', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  142 to_col is['M', 'S', 'N', 'H']
+2023-02-12 09:13:34 MST | __main__ | solve -->  143 last non_empty index is 10
+2023-02-12 09:13:34 MST | __main__ | solve -->  143 from_col is['M', 'P', 'Z', 'M', 'C', 'T', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  143 to_col is['B', 'T', 'M', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  144 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  144 from_col is['N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  144 to_col is['F', 'D', 'Q', 'T', 'R', 'W', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  145 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  145 from_col is['M', 'S', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  145 to_col is['B', 'T', 'M', 'F', 'H']
+2023-02-12 09:13:34 MST | __main__ | solve -->  146 last non_empty index is 14
+2023-02-12 09:13:34 MST | __main__ | solve -->  146 from_col is['R', 'P', 'J', 'R', 'H', 'Z', 'C', 'L', 'M', 'L', 'V', 'F', 'S', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  146 to_col is['M', 'S', 'N', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  147 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  147 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  147 to_col is['M', 'P', 'Z', 'M', 'C', 'T', 'D', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  148 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  148 from_col is['M', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  148 to_col is['P', 'S', 'Q', 'Q', 'N', 'L', 'T', 'B', 'G', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  149 last non_empty index is 13
+2023-02-12 09:13:34 MST | __main__ | solve -->  149 from_col is['R', 'P', 'J', 'R', 'H', 'Z', 'C', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  149 to_col is['Z', 'S', 'F', 'V', 'L', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  150 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  150 from_col is['Z', 'S', 'F', 'V', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  150 to_col is['M', 'P', 'Z', 'M', 'C', 'T', 'D', 'N', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  151 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  151 from_col is['Z', 'S', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  151 to_col is['J', 'G', 'S', 'P', 'L', 'G', 'C', 'F', 'B', 'D', 'L', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  152 last non_empty index is 9
+2023-02-12 09:13:34 MST | __main__ | solve -->  152 from_col is['P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  152 to_col is['B', 'T', 'M', 'F', 'H', 'N', 'G', 'B', 'T', 'L', 'N', 'Q', 'Q', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  153 last non_empty index is 13
+2023-02-12 09:13:34 MST | __main__ | solve -->  153 from_col is['B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  153 to_col is['M', 'P', 'Z', 'M', 'C', 'T', 'D', 'N', 'M', 'S', 'Q', 'Q', 'N', 'L', 'T', 'B', 'G', 'N', 'H', 'F', 'M', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  154 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  154 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  154 to_col is['R', 'P', 'J', 'R', 'H', 'Z', 'C', 'L', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  155 last non_empty index is 11
+2023-02-12 09:13:34 MST | __main__ | solve -->  155 from_col is['J', 'G', 'S', 'P', 'L', 'G', 'C', 'F', 'B', 'D', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  155 to_col is['M', 'P', 'Z', 'M', 'C', 'T', 'D', 'N', 'M', 'S', 'Q', 'Q', 'N', 'L', 'T', 'B', 'G', 'N', 'H', 'F', 'M', 'T', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  156 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  156 from_col is['F', 'D', 'Q', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  156 to_col is['R', 'P', 'J', 'R', 'H', 'Z', 'C', 'L', 'P', 'V', 'W', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  157 last non_empty index is 10
+2023-02-12 09:13:34 MST | __main__ | solve -->  157 from_col is['J', 'G', 'S', 'P', 'L', 'G', 'C', 'F', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  157 to_col is['Z', 'S', 'F', 'L', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  158 last non_empty index is 11
+2023-02-12 09:13:34 MST | __main__ | solve -->  158 from_col is['R', 'P', 'J', 'R', 'H', 'Z', 'C', 'L', 'P', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  158 to_col is['Z', 'S', 'F', 'L', 'D', 'R', 'W']
+2023-02-12 09:13:34 MST | __main__ | solve -->  159 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  159 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  159 to_col is['F', 'D', 'Q', 'T', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  160 last non_empty index is 22
+2023-02-12 09:13:34 MST | __main__ | solve -->  160 from_col is['M', 'P', 'Z', 'M', 'C', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  160 to_col is['R', 'P', 'J', 'R', 'H', 'Z', 'C', 'L', 'P', 'V', 'V', 'T', 'M', 'F', 'H', 'N', 'G', 'B', 'T', 'L', 'N', 'Q', 'Q', 'S', 'M', 'N', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  161 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  161 from_col is['F', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  161 to_col is['B', 'T', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  162 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  162 from_col is['Z', 'S', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  162 to_col is['R', 'P', 'J', 'R', 'H', 'Z', 'C', 'L', 'P', 'V', 'V', 'T', 'M', 'F', 'H', 'N', 'G', 'B', 'T', 'L', 'N', 'Q', 'Q', 'S', 'M', 'N', 'D', 'W', 'R', 'D', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  163 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  163 from_col is['B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  163 to_col is['J', 'G', 'S', 'P', 'L', 'G', 'C', 'F', 'B', 'Q', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  164 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  164 from_col is['M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  164 to_col is['R', 'P', 'J', 'R', 'H', 'Z', 'C', 'L', 'P', 'V', 'V', 'T', 'M', 'F', 'H', 'N', 'G', 'B', 'T', 'L', 'N', 'Q', 'Q', 'S', 'M', 'N', 'D', 'W', 'R', 'D', 'L', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  165 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  165 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  165 to_col is['M', 'P', 'Z', 'M', 'C', 'T', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  166 last non_empty index is 10
+2023-02-12 09:13:34 MST | __main__ | solve -->  166 from_col is['J', 'G', 'S', 'P', 'L', 'G', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  166 to_col is['M', 'T', 'Q', 'B', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  167 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  167 from_col is['Z', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  167 to_col is['F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  168 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  168 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  168 to_col is['M', 'P', 'Z', 'M', 'C', 'T', 'B', 'F', 'B', 'Q', 'T', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  169 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  169 from_col is['Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  169 to_col is['J', 'G', 'S', 'P', 'L', 'G', 'C', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  170 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  170 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  170 to_col is['Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  171 last non_empty index is 11
+2023-02-12 09:13:34 MST | __main__ | solve -->  171 from_col is['M', 'P', 'Z', 'M', 'C', 'T', 'B', 'F', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  171 to_col is['Z', 'M', 'T', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  172 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  172 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  172 to_col is['S', 'C', 'G', 'L', 'P', 'S', 'G', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  173 last non_empty index is 31
+2023-02-12 09:13:34 MST | __main__ | solve -->  173 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  173 to_col is['S', 'L', 'D', 'R', 'W', 'D', 'N', 'M', 'S', 'Q', 'Q', 'N', 'L', 'T', 'B', 'G', 'N', 'H', 'F', 'M', 'T', 'V', 'V', 'P', 'L', 'C', 'Z', 'H', 'R', 'J', 'P', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  174 last non_empty index is 31
+2023-02-12 09:13:34 MST | __main__ | solve -->  174 from_col is['S', 'L', 'D', 'R', 'W', 'D', 'N', 'M', 'S', 'Q', 'Q', 'N', 'L', 'T', 'B', 'G', 'N', 'H', 'F', 'M', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  174 to_col is['Z', 'M', 'T', 'Q', 'R', 'P', 'J', 'R', 'H', 'Z', 'C', 'L', 'P', 'V', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  175 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  175 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  175 to_col is['F', 'D', 'J', 'G', 'S', 'P', 'L', 'G', 'C', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  176 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  176 from_col is['M', 'P', 'Z', 'M', 'C', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  176 to_col is['S', 'L', 'D', 'R', 'W', 'D', 'N', 'M', 'S', 'Q', 'Q', 'N', 'L', 'T', 'B', 'G', 'N', 'H', 'F', 'M', 'T', 'B', 'F', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  177 last non_empty index is 9
+2023-02-12 09:13:34 MST | __main__ | solve -->  177 from_col is['F', 'D', 'J', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  177 to_col is['F', 'S', 'C', 'G', 'L', 'P', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  178 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  178 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  178 to_col is['M', 'P', 'Z', 'M', 'C', 'T', 'G', 'J', 'D', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  179 last non_empty index is 9
+2023-02-12 09:13:34 MST | __main__ | solve -->  179 from_col is['M', 'P', 'Z', 'M', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  179 to_col is['F', 'D', 'J', 'G', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  180 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  180 from_col is['M', 'P', 'Z', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  180 to_col is['C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  181 last non_empty index is 14
+2023-02-12 09:13:34 MST | __main__ | solve -->  181 from_col is['Z', 'M', 'T', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  181 to_col is['V', 'V', 'P', 'L', 'C', 'Z', 'H', 'R', 'J', 'P', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  182 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  182 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  182 to_col is['F', 'D', 'J', 'G', 'T', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  183 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  183 from_col is['M', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  183 to_col is['Z', 'M', 'T', 'Q', 'M', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  184 last non_empty index is 23
+2023-02-12 09:13:34 MST | __main__ | solve -->  184 from_col is['S', 'L', 'D', 'R', 'W', 'D', 'N', 'M', 'S', 'Q', 'Q', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  184 to_col is['M', 'P', 'B', 'F', 'B', 'T', 'M', 'F', 'H', 'N', 'G', 'B', 'T', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  185 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  185 from_col is['Z', 'M', 'T', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  185 to_col is['F', 'D', 'J', 'G', 'T', 'C', 'Z', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  186 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  186 from_col is['Z', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  186 to_col is['Q', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  187 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  187 from_col is['F', 'D', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  187 to_col is['M', 'Z', 'C', 'T', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  188 last non_empty index is 11
+2023-02-12 09:13:34 MST | __main__ | solve -->  188 from_col is['S', 'L', 'D', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  188 to_col is['F', 'D', 'J', 'N', 'Q', 'Q', 'S', 'M', 'N', 'D', 'W']
+2023-02-12 09:13:34 MST | __main__ | solve -->  189 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  189 from_col is['S', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  189 to_col is['R', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  190 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  190 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  190 to_col is['Z', 'M', 'L', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  191 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  191 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  191 to_col is['Q', 'T', 'G', 'T', 'C', 'Z', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  192 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  192 from_col is['Q', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  192 to_col is['M', 'Z', 'C', 'T', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  193 last non_empty index is 13
+2023-02-12 09:13:34 MST | __main__ | solve -->  193 from_col is['M', 'P', 'B', 'F', 'B', 'T', 'M', 'F', 'H']
+2023-02-12 09:13:34 MST | __main__ | solve -->  193 to_col is['F', 'D', 'J', 'N', 'Q', 'Q', 'S', 'M', 'N', 'D', 'W', 'L', 'T', 'B', 'G', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  194 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  194 from_col is['F', 'S', 'C', 'G', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  194 to_col is['M', 'Z', 'C', 'T', 'G', 'S', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  195 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  195 from_col is['M', 'P', 'B', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  195 to_col is['Q', 'T', 'H', 'F', 'M', 'T', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  196 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  196 from_col is['M', 'Z', 'C', 'T', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  196 to_col is['V', 'V', 'P', 'L', 'C', 'Z', 'H', 'R', 'J', 'P', 'R', 'P', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  197 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  197 from_col is['F', 'S', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  197 to_col is['V', 'V', 'P', 'L', 'C', 'Z', 'H', 'R', 'J', 'P', 'R', 'P', 'S', 'L', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  198 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  198 from_col is['M', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  198 to_col is['F', 'S', 'C', 'G', 'T', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  199 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  199 from_col is['R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  199 to_col is['M', 'P', 'B', 'F', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  200 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  200 from_col is['Z', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  200 to_col is['R', 'S', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  201 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  201 from_col is['F', 'S', 'C', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  201 to_col is['M', 'P', 'B', 'F', 'D', 'C', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  202 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  202 from_col is['M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  202 to_col is['M', 'P', 'B', 'F', 'D', 'C', 'T', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  203 last non_empty index is 15
+2023-02-12 09:13:34 MST | __main__ | solve -->  203 from_col is['F', 'D', 'J', 'N', 'Q', 'Q', 'S', 'M', 'N', 'D', 'W', 'L', 'T', 'B', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  203 to_col is['N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  204 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  204 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  204 to_col is['F', 'S', 'C', 'G', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  205 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  205 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  205 to_col is['V', 'V', 'P', 'L', 'C', 'Z', 'H', 'R', 'J', 'P', 'R', 'P', 'S', 'L', 'G', 'B', 'T', 'M', 'F', 'H', 'T', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  206 last non_empty index is 21
+2023-02-12 09:13:34 MST | __main__ | solve -->  206 from_col is['V', 'V', 'P', 'L', 'C', 'Z', 'H', 'R', 'J', 'P', 'R', 'P', 'S', 'L', 'G', 'B', 'T', 'M', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  206 to_col is['Z', 'M', 'Q', 'T', 'H']
+2023-02-12 09:13:34 MST | __main__ | solve -->  207 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  207 from_col is['M', 'P', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  207 to_col is['Z', 'M', 'Q', 'T', 'H', 'Z', 'T', 'C', 'D', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  208 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  208 from_col is['F', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  208 to_col is['N', 'M', 'G', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  209 last non_empty index is 18
+2023-02-12 09:13:34 MST | __main__ | solve -->  209 from_col is['V', 'V', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  209 to_col is['R', 'S', 'L', 'F', 'M', 'T', 'B', 'G', 'L', 'S', 'P', 'R', 'P', 'J', 'R', 'H', 'Z', 'C', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  210 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  210 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  210 to_col is['R', 'S', 'L', 'F', 'M', 'T', 'B', 'G', 'L', 'S', 'P', 'R', 'P', 'J', 'R', 'H', 'Z', 'C', 'L', 'S', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  211 last non_empty index is 20
+2023-02-12 09:13:34 MST | __main__ | solve -->  211 from_col is['R', 'S', 'L', 'F', 'M', 'T', 'B', 'G', 'L', 'S', 'P', 'R', 'P', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  211 to_col is['M', 'P', 'B', 'F', 'S', 'L', 'C', 'Z', 'H', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  212 last non_empty index is 13
+2023-02-12 09:13:34 MST | __main__ | solve -->  212 from_col is['R', 'S', 'L', 'F', 'M', 'T', 'B', 'G', 'L', 'S', 'P', 'R', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  212 to_col is['F', 'D', 'J', 'N', 'Q', 'Q', 'S', 'M', 'N', 'D', 'W', 'L', 'T', 'B', 'G', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  213 last non_empty index is 9
+2023-02-12 09:13:34 MST | __main__ | solve -->  213 from_col is['M', 'P', 'B', 'F', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  213 to_col is['F', 'D', 'J', 'N', 'Q', 'Q', 'S', 'M', 'N', 'D', 'W', 'L', 'T', 'B', 'G', 'J', 'R', 'H', 'Z', 'C', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  214 last non_empty index is 12
+2023-02-12 09:13:34 MST | __main__ | solve -->  214 from_col is['R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  214 to_col is['P', 'R', 'P', 'S', 'L', 'G', 'B', 'T', 'M', 'F', 'L', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  215 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  215 from_col is['V', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  215 to_col is['N', 'M', 'G', 'C', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  216 last non_empty index is 20
+2023-02-12 09:13:34 MST | __main__ | solve -->  216 from_col is['F', 'D', 'J', 'N', 'Q', 'Q', 'S', 'M', 'N', 'D', 'W', 'L', 'T', 'B', 'G', 'J', 'R', 'H', 'Z', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  216 to_col is['L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  217 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  217 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  217 to_col is['P', 'R', 'P', 'S', 'L', 'G', 'B', 'T', 'M', 'F', 'L', 'S', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  218 last non_empty index is 9
+2023-02-12 09:13:34 MST | __main__ | solve -->  218 from_col is['Z', 'M', 'Q', 'T', 'H', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  218 to_col is['N', 'M', 'G', 'C', 'P', 'F', 'D', 'C', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  219 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  219 from_col is['Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  219 to_col is['R', 'Z', 'H', 'T', 'Q', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  220 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  220 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  220 to_col is['N', 'M', 'G', 'C', 'P', 'F', 'D', 'C', 'T', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  221 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  221 from_col is['R', 'Z', 'H', 'T', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  221 to_col is['P', 'R', 'P', 'S', 'L', 'G', 'B', 'T', 'M', 'F', 'L', 'S', 'L', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  222 last non_empty index is 13
+2023-02-12 09:13:34 MST | __main__ | solve -->  222 from_col is['P', 'R', 'P', 'S', 'L', 'G', 'B', 'T', 'M', 'F', 'L', 'S', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  222 to_col is['M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  223 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  223 from_col is['V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  223 to_col is['M', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  224 last non_empty index is 12
+2023-02-12 09:13:34 MST | __main__ | solve -->  224 from_col is['P', 'R', 'P', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  224 to_col is['L', 'S', 'L', 'F', 'M', 'T', 'B', 'G', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  225 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  225 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  225 to_col is['M', 'P', 'B', 'F', 'S', 'V', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  226 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  226 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  226 to_col is['P', 'R', 'P', 'S', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  227 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  227 from_col is['M', 'P', 'B', 'F', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  227 to_col is['M', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  228 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  228 from_col is['M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  228 to_col is['P', 'R', 'P', 'S', 'V', 'S', 'F', 'B', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  229 last non_empty index is 19
+2023-02-12 09:13:34 MST | __main__ | solve -->  229 from_col is['F', 'D', 'J', 'N', 'Q', 'Q', 'S', 'M', 'N', 'D', 'W', 'L', 'T', 'B', 'G', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  229 to_col is['M', 'C', 'Z', 'H', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  230 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  230 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  230 to_col is['V', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  231 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  231 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  231 to_col is['M', 'C', 'Z', 'H', 'R', 'M', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  232 last non_empty index is 15
+2023-02-12 09:13:34 MST | __main__ | solve -->  232 from_col is['F', 'D', 'J', 'N', 'Q', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  232 to_col is['P', 'R', 'P', 'S', 'V', 'S', 'F', 'B', 'P', 'J', 'G', 'B', 'T', 'L', 'W', 'D', 'N', 'M', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  233 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  233 from_col is['F', 'D', 'J', 'N', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  233 to_col is['R', 'Z', 'H', 'T', 'Q', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  234 last non_empty index is 18
+2023-02-12 09:13:34 MST | __main__ | solve -->  234 from_col is['P', 'R', 'P', 'S', 'V', 'S', 'F', 'B', 'P', 'J', 'G', 'B', 'T', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  234 to_col is['S', 'M', 'N', 'D', 'W']
+2023-02-12 09:13:34 MST | __main__ | solve -->  235 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  235 from_col is['R', 'Z', 'H', 'T', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  235 to_col is['Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  236 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  236 from_col is['M', 'C', 'Z', 'H']
+2023-02-12 09:13:34 MST | __main__ | solve -->  236 to_col is['S', 'M', 'N', 'D', 'W', 'V', 'M', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  237 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  237 from_col is['S', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  237 to_col is['F', 'D', 'J', 'N', 'Q', 'R', 'M', 'V', 'W', 'D', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  238 last non_empty index is 10
+2023-02-12 09:13:34 MST | __main__ | solve -->  238 from_col is['F', 'D', 'J', 'N', 'Q', 'R', 'M', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  238 to_col is['S', 'M', 'N', 'D', 'W']
+2023-02-12 09:13:34 MST | __main__ | solve -->  239 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  239 from_col is['L', 'S', 'L', 'F', 'M', 'T', 'B', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  239 to_col is['S', 'M', 'N', 'D', 'W', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  240 last non_empty index is 9
+2023-02-12 09:13:34 MST | __main__ | solve -->  240 from_col is['N', 'M', 'G', 'C', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  240 to_col is['M', 'C', 'Z', 'H', 'Z', 'T', 'C', 'D', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  241 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  241 from_col is['R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  241 to_col is['Q', 'Q', 'T', 'H', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  242 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  242 from_col is['Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  242 to_col is['R', 'Z', 'H', 'T', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  243 last non_empty index is 13
+2023-02-12 09:13:34 MST | __main__ | solve -->  243 from_col is['P', 'R', 'P', 'S', 'V', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  243 to_col is['F', 'D', 'J', 'N', 'Q', 'R', 'M', 'V', 'L', 'T', 'B', 'G', 'J', 'P', 'B', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  244 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  244 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  244 to_col is['F', 'D', 'J', 'N', 'Q', 'R', 'M', 'V', 'L', 'T', 'B', 'G', 'J', 'P', 'B', 'F', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  245 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  245 from_col is['S', 'M', 'N', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  245 to_col is['F', 'D', 'J', 'N', 'Q', 'R', 'M', 'V', 'L', 'T', 'B', 'G', 'J', 'P', 'B', 'F', 'Q', 'L', 'W']
+2023-02-12 09:13:34 MST | __main__ | solve -->  246 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  246 from_col is['L', 'S', 'L', 'F', 'M', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  246 to_col is['G', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  247 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  247 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  247 to_col is['F', 'D', 'J', 'N', 'Q', 'R', 'M', 'V', 'L', 'T', 'B', 'G', 'J', 'P', 'B', 'F', 'Q', 'L', 'W', 'D', 'N', 'M', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  248 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  248 from_col is['N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  248 to_col is['P', 'C', 'G', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  249 last non_empty index is 22
+2023-02-12 09:13:34 MST | __main__ | solve -->  249 from_col is['F', 'D', 'J', 'N', 'Q', 'R', 'M', 'V', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  249 to_col is['P', 'C', 'G', 'M', 'S', 'M', 'N', 'D', 'W', 'L', 'Q', 'F', 'B', 'P', 'J', 'G', 'B', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  250 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  250 from_col is['F', 'D', 'J', 'N', 'Q', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  250 to_col is['R', 'Z', 'H', 'T', 'Q', 'L', 'V', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  251 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  251 from_col is['M', 'C', 'Z', 'H', 'Z', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  251 to_col is['F', 'D', 'J', 'N', 'Q', 'R', 'F', 'D', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  252 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  252 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  252 to_col is['P', 'C', 'G', 'M', 'S', 'M', 'N', 'D', 'W', 'L', 'Q', 'F', 'B', 'P', 'J', 'G', 'B', 'T', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  253 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  253 from_col is['F', 'D', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  253 to_col is['P', 'R', 'P', 'S', 'V', 'S', 'C', 'D', 'F', 'R', 'Q', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  254 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  254 from_col is['F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  254 to_col is['P', 'C', 'G', 'M', 'S', 'M', 'N', 'D', 'W', 'L', 'Q', 'F', 'B', 'P', 'J', 'G', 'B', 'T', 'N', 'J', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  255 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  255 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  255 to_col is['L', 'S', 'L', 'F', 'M', 'T', 'B', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  256 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  256 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  256 to_col is['F', 'T', 'Z', 'H', 'Z', 'C', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  257 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  257 from_col is['L', 'S', 'L', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  257 to_col is['P', 'R', 'P', 'S', 'V', 'S', 'C', 'D', 'F', 'R', 'Q', 'N', 'G', 'B', 'T', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  258 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  258 from_col is['L', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  258 to_col is['F', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  259 last non_empty index is 15
+2023-02-12 09:13:34 MST | __main__ | solve -->  259 from_col is['P', 'R', 'P', 'S', 'V', 'S', 'C', 'D', 'F', 'R', 'Q', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  259 to_col is['F', 'T', 'Z', 'H', 'Z', 'C', 'M', 'M', 'T', 'B', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  260 last non_empty index is 11
+2023-02-12 09:13:34 MST | __main__ | solve -->  260 from_col is['P', 'R', 'P', 'S', 'V', 'S', 'C', 'D', 'F', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  260 to_col is['N', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  261 last non_empty index is 20
+2023-02-12 09:13:34 MST | __main__ | solve -->  261 from_col is['P', 'C', 'G', 'M', 'S', 'M', 'N', 'D', 'W', 'L', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  261 to_col is['F', 'T', 'Z', 'H', 'Z', 'C', 'M', 'M', 'T', 'B', 'G', 'D', 'J', 'N', 'T', 'B', 'G', 'J', 'P', 'B', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  262 last non_empty index is 20
+2023-02-12 09:13:34 MST | __main__ | solve -->  262 from_col is['F', 'T', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  262 to_col is['L', 'S', 'F', 'B', 'P', 'J', 'G', 'B', 'T', 'N', 'J', 'D', 'G', 'B', 'T', 'M', 'M', 'C', 'Z', 'H']
+2023-02-12 09:13:34 MST | __main__ | solve -->  263 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  263 from_col is['F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  263 to_col is['L', 'S', 'F', 'B', 'P', 'J', 'G', 'B', 'T', 'N', 'J', 'D', 'G', 'B', 'T', 'M', 'M', 'C', 'Z', 'H', 'Z', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  264 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  264 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  264 to_col is['F', 'L', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  265 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  265 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  265 to_col is['Q', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  266 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  266 from_col is['F', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  266 to_col is['F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  267 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  267 from_col is['F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  267 to_col is['F', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  268 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  268 from_col is['Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  268 to_col is['P', 'C', 'G', 'M', 'S', 'M', 'N', 'D', 'W', 'L', 'Q', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  269 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  269 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  269 to_col is['L', 'S', 'F', 'B', 'P', 'J', 'G', 'B', 'T', 'N', 'J', 'D', 'G', 'B', 'T', 'M', 'M', 'C', 'Z', 'H', 'Z', 'T', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  270 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  270 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  270 to_col is['L', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  271 last non_empty index is 11
+2023-02-12 09:13:34 MST | __main__ | solve -->  271 from_col is['P', 'C', 'G', 'M', 'S', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  271 to_col is['N', 'Q', 'L', 'W', 'D', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  272 last non_empty index is 22
+2023-02-12 09:13:34 MST | __main__ | solve -->  272 from_col is['L', 'S', 'F', 'B', 'P', 'J', 'G', 'B', 'T', 'N', 'J', 'D', 'G', 'B', 'T', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  272 to_col is['F', 'T', 'Z', 'H', 'Z', 'C', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  273 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  273 from_col is['P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  273 to_col is['L', 'F', 'M', 'S', 'M', 'G', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  274 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  274 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  274 to_col is['P', 'R', 'P', 'S', 'V', 'S', 'C', 'D', 'F', 'R', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  275 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  275 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  275 to_col is['Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  276 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  276 from_col is['F', 'T', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  276 to_col is['Q', 'M', 'C', 'Z', 'H']
+2023-02-12 09:13:34 MST | __main__ | solve -->  277 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  277 from_col is['L', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  277 to_col is['N', 'Q', 'L', 'W', 'D', 'N', 'C', 'G', 'M', 'S', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  278 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  278 from_col is['Q', 'M', 'C', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  278 to_col is['H']
+2023-02-12 09:13:34 MST | __main__ | solve -->  279 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  279 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  279 to_col is['F', 'T', 'Z', 'F', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  280 last non_empty index is 10
+2023-02-12 09:13:34 MST | __main__ | solve -->  280 from_col is['P', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  280 to_col is['N', 'Q', 'L', 'W', 'D', 'N', 'C', 'G', 'M', 'S', 'M', 'P', 'R', 'F', 'D', 'C', 'S', 'V', 'S', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  281 last non_empty index is 15
+2023-02-12 09:13:34 MST | __main__ | solve -->  281 from_col is['L', 'S', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  281 to_col is['F', 'T', 'Z', 'F', 'L', 'M', 'T', 'B', 'G', 'D', 'J', 'N', 'T', 'B', 'G', 'J', 'P', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  282 last non_empty index is 19
+2023-02-12 09:13:34 MST | __main__ | solve -->  282 from_col is['N', 'Q', 'L', 'W', 'D', 'N', 'C', 'G', 'M', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  282 to_col is['R', 'Z', 'H', 'T', 'Q', 'L', 'V', 'M', 'P', 'S', 'V', 'S', 'C', 'D', 'F', 'R', 'P', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  283 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  283 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  283 to_col is['H']
+2023-02-12 09:13:34 MST | __main__ | solve -->  284 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  284 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  284 to_col is['F', 'T', 'Z', 'F', 'L', 'M', 'T', 'B', 'G', 'D', 'J', 'N', 'T', 'B', 'G', 'J', 'P', 'B', 'F', 'S', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  285 last non_empty index is 17
+2023-02-12 09:13:34 MST | __main__ | solve -->  285 from_col is['R', 'Z', 'H', 'T', 'Q', 'L', 'V', 'M', 'P', 'S', 'V', 'S', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  285 to_col is['H', 'M', 'P', 'R', 'F', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  286 last non_empty index is 12
+2023-02-12 09:13:34 MST | __main__ | solve -->  286 from_col is['R', 'Z', 'H', 'T', 'Q', 'L', 'V', 'M', 'P', 'S', 'V', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  286 to_col is['F', 'T', 'Z', 'F', 'L', 'M', 'T', 'B', 'G', 'D', 'J', 'N', 'T', 'B', 'G', 'J', 'P', 'B', 'F', 'S', 'L', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  287 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  287 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  287 to_col is['N', 'Q', 'L', 'W', 'D', 'N', 'C', 'G', 'M', 'S', 'R', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  288 last non_empty index is 21
+2023-02-12 09:13:34 MST | __main__ | solve -->  288 from_col is['F', 'T', 'Z', 'F', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  288 to_col is['C', 'L', 'S', 'F', 'B', 'P', 'J', 'G', 'B', 'T', 'N', 'J', 'D', 'G', 'B', 'T', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  289 last non_empty index is 16
+2023-02-12 09:13:34 MST | __main__ | solve -->  289 from_col is['C', 'L', 'S', 'F', 'B', 'P', 'J', 'G', 'B', 'T', 'N', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  289 to_col is['N', 'Q', 'L', 'W', 'D', 'N', 'C', 'G', 'M', 'S', 'R', 'P', 'M', 'T', 'B', 'G', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  290 last non_empty index is 11
+2023-02-12 09:13:34 MST | __main__ | solve -->  290 from_col is['R', 'Z', 'H', 'T', 'Q', 'L', 'V', 'M', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  290 to_col is['H', 'M', 'P', 'R', 'F', 'D', 'S', 'V', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  291 last non_empty index is 11
+2023-02-12 09:13:34 MST | __main__ | solve -->  291 from_col is['C', 'L', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  291 to_col is['J', 'N', 'T', 'B', 'G', 'J', 'P', 'B', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  292 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  292 from_col is['C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  292 to_col is['F', 'T', 'Z', 'F', 'L', 'S', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  293 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  293 from_col is['J', 'N', 'T', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  293 to_col is['F', 'B', 'P', 'J', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  294 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  294 from_col is['F', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  294 to_col is['F', 'T', 'Z', 'F', 'L', 'S', 'L', 'G', 'J', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  295 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  295 from_col is['R', 'Z', 'H', 'T', 'Q', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  295 to_col is['N', 'Q', 'L', 'W', 'D', 'N', 'C', 'G', 'M', 'S', 'R', 'P', 'M', 'T', 'B', 'G', 'D', 'P', 'M', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  296 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  296 from_col is['Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  296 to_col is['J', 'N', 'T', 'B', 'Z', 'C', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  297 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  297 from_col is['J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  297 to_col is['F', 'T', 'Z', 'F', 'L', 'S', 'L', 'G', 'J', 'P', 'M', 'C', 'Z', 'B', 'T', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  298 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  298 from_col is['H', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  298 to_col is['S', 'V', 'S', 'D', 'F', 'R', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  299 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  299 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  299 to_col is['N', 'Q', 'L', 'W', 'D', 'N', 'C', 'G', 'M', 'S', 'R', 'P', 'M', 'T', 'B', 'G', 'D', 'P', 'M', 'V', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  300 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  300 from_col is['R', 'Z', 'H', 'T', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  300 to_col is['J', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  301 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  301 from_col is['S', 'V', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  301 to_col is['J', 'L', 'P', 'R', 'F', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  302 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  302 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  302 to_col is['F', 'B', 'M', 'H']
+2023-02-12 09:13:34 MST | __main__ | solve -->  303 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  303 from_col is['R', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  303 to_col is['N', 'Q', 'L', 'W', 'D', 'N', 'C', 'G', 'M', 'S', 'R', 'P', 'M', 'T', 'B', 'G', 'D', 'P', 'M', 'V', 'C', 'Q', 'T', 'H']
+2023-02-12 09:13:34 MST | __main__ | solve -->  304 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  304 from_col is['J', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  304 to_col is['F', 'T', 'Z', 'F', 'L', 'S', 'L', 'G', 'J', 'P', 'M', 'C', 'Z', 'B', 'T', 'N', 'D', 'F', 'R', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  305 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  305 from_col is['S', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  305 to_col is['J', 'L', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  306 last non_empty index is 19
+2023-02-12 09:13:34 MST | __main__ | solve -->  306 from_col is['F', 'T', 'Z', 'F', 'L', 'S', 'L', 'G', 'J', 'P', 'M', 'C', 'Z', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  306 to_col is['Q', 'P', 'R', 'F', 'D', 'N', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  307 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  307 from_col is['J', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  307 to_col is['S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  308 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  308 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  308 to_col is['S', 'H', 'M', 'B', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  309 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  309 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  309 to_col is['L', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  310 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  310 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  310 to_col is['F', 'T', 'Z', 'F', 'L', 'S', 'L', 'G', 'J', 'P', 'M', 'C', 'Z', 'B', 'Z', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  311 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  311 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  311 to_col is['L', 'J', 'V', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  312 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  312 from_col is['Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  312 to_col is['T', 'N', 'D', 'F', 'R', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  313 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  313 from_col is['T', 'N', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  313 to_col is['S', 'H', 'M', 'B', 'F', 'P', 'R', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  314 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  314 from_col is['S', 'H', 'M', 'B', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  314 to_col is['T', 'N', 'D', 'F', 'R', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  315 last non_empty index is 15
+2023-02-12 09:13:34 MST | __main__ | solve -->  315 from_col is['F', 'T', 'Z', 'F', 'L', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  315 to_col is['N', 'Q', 'L', 'W', 'D', 'N', 'C', 'G', 'M', 'S', 'R', 'P', 'M', 'T', 'B', 'G', 'D', 'P', 'M', 'V', 'C', 'Q', 'T', 'H', 'R', 'Z', 'B', 'Z', 'C', 'M', 'P', 'J', 'G', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  316 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  316 from_col is['F', 'T', 'Z', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  316 to_col is['T', 'N', 'D', 'F', 'R', 'P', 'S', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  317 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  317 from_col is['S', 'H']
+2023-02-12 09:13:34 MST | __main__ | solve -->  317 to_col is['T', 'N', 'D', 'F', 'R', 'P', 'S', 'L', 'F', 'B', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  318 last non_empty index is 10
+2023-02-12 09:13:34 MST | __main__ | solve -->  318 from_col is['T', 'N', 'D', 'F', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  318 to_col is['M', 'B', 'F', 'L', 'S', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  319 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  319 from_col is['T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  319 to_col is['R', 'F', 'D', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  320 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  320 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  320 to_col is['T', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  321 last non_empty index is 33
+2023-02-12 09:13:34 MST | __main__ | solve -->  321 from_col is['N', 'Q', 'L', 'W', 'D', 'N', 'C', 'G', 'M', 'S', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  321 to_col is['L', 'G', 'J', 'P', 'M', 'C', 'Z', 'B', 'Z', 'R', 'H', 'T', 'Q', 'C', 'V', 'M', 'P', 'D', 'G', 'B', 'T', 'M', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  322 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  322 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  322 to_col is['L', 'J', 'V', 'S', 'Q', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  323 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  323 from_col is['M', 'B', 'F', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  323 to_col is['P', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  324 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  324 from_col is['R', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  324 to_col is['N', 'Q', 'L', 'W', 'D', 'N', 'C', 'G', 'M', 'S', 'R', 'N', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  325 last non_empty index is 12
+2023-02-12 09:13:34 MST | __main__ | solve -->  325 from_col is['N', 'Q', 'L', 'W', 'D', 'N', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  325 to_col is['M', 'B', 'F', 'L', 'D', 'N', 'R', 'S', 'M', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  326 last non_empty index is 9
+2023-02-12 09:13:34 MST | __main__ | solve -->  326 from_col is['M', 'B', 'F', 'L', 'D', 'N', 'R', 'S', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  326 to_col is['L', 'G', 'J', 'P', 'M', 'C', 'Z', 'B', 'Z', 'R', 'H', 'T', 'Q', 'C', 'V', 'M', 'P', 'D', 'G', 'B', 'T', 'M', 'P', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  327 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  327 from_col is['N', 'Q', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  327 to_col is['M', 'B', 'F', 'L', 'D', 'N', 'R', 'S', 'M', 'C', 'N', 'D', 'W']
+2023-02-12 09:13:34 MST | __main__ | solve -->  328 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  328 from_col is['F', 'T', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  328 to_col is['P', 'S', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  329 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  329 from_col is['L', 'J', 'V', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  329 to_col is['S', 'H', 'T', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  330 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  330 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  330 to_col is['F', 'T', 'Z', 'L', 'Q', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  331 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  331 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  331 to_col is['F', 'T', 'Z', 'L', 'Q', 'N', 'F', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  332 last non_empty index is 12
+2023-02-12 09:13:34 MST | __main__ | solve -->  332 from_col is['M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  332 to_col is['W', 'D', 'N', 'C', 'M', 'S', 'R', 'N', 'D', 'L', 'F', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  333 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  333 from_col is['L', 'J', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  333 to_col is['L', 'G', 'J', 'P', 'M', 'C', 'Z', 'B', 'Z', 'R', 'H', 'T', 'Q', 'C', 'V', 'M', 'P', 'D', 'G', 'B', 'T', 'M', 'P', 'G', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  334 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  334 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  334 to_col is['L', 'J', 'V', 'F', 'S', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  335 last non_empty index is 11
+2023-02-12 09:13:34 MST | __main__ | solve -->  335 from_col is['W', 'D', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  335 to_col is['F', 'T', 'Z', 'L', 'Q', 'N', 'F', 'R', 'B', 'F', 'L', 'D', 'N', 'R', 'S', 'M', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  336 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  336 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  336 to_col is['L', 'G', 'J', 'P', 'M', 'C', 'Z', 'B', 'Z', 'R', 'H', 'T', 'Q', 'C', 'V', 'M', 'P', 'D', 'G', 'B', 'T', 'M', 'P', 'G', 'S', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  337 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  337 from_col is['L', 'J', 'V', 'F', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  337 to_col is['P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  338 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  338 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  338 to_col is['N', 'D', 'W']
+2023-02-12 09:13:34 MST | __main__ | solve -->  339 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  339 from_col is['S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  339 to_col is['Q', 'T', 'H']
+2023-02-12 09:13:34 MST | __main__ | solve -->  340 last non_empty index is 16
+2023-02-12 09:13:34 MST | __main__ | solve -->  340 from_col is['F', 'T', 'Z', 'L', 'Q', 'N', 'F', 'R', 'B', 'F', 'L', 'D', 'N', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  340 to_col is['N', 'D', 'W', 'C', 'M', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  341 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  341 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  341 to_col is['S', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  342 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  342 from_col is['S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  342 to_col is['L', 'J', 'V', 'F', 'S', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  343 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  343 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  343 to_col is['L', 'G', 'J', 'P', 'M', 'C', 'Z', 'B', 'Z', 'R', 'H', 'T', 'Q', 'C', 'V', 'M', 'P', 'D', 'G', 'B', 'T', 'M', 'P', 'G', 'S', 'M', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  344 last non_empty index is 26
+2023-02-12 09:13:34 MST | __main__ | solve -->  344 from_col is['L', 'G', 'J', 'P', 'M', 'C', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  344 to_col is['S', 'M', 'S', 'G', 'P', 'M', 'T', 'B', 'G', 'D', 'P', 'M', 'V', 'C', 'Q', 'T', 'H', 'R', 'Z', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  345 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  345 from_col is['L', 'G', 'J', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  345 to_col is['Z', 'C', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  346 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  346 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  346 to_col is['Z', 'C', 'M', 'H', 'T', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  347 last non_empty index is 13
+2023-02-12 09:13:34 MST | __main__ | solve -->  347 from_col is['F', 'T', 'Z', 'L', 'Q', 'N', 'F', 'R', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  347 to_col is['R', 'N', 'D', 'L', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  348 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  348 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  348 to_col is['S', 'M', 'S', 'G', 'P', 'M', 'T', 'B', 'G', 'D', 'P', 'M', 'V', 'C', 'Q', 'T', 'H', 'R', 'Z', 'B', 'F', 'L', 'D', 'N', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  349 last non_empty index is 24
+2023-02-12 09:13:34 MST | __main__ | solve -->  349 from_col is['S', 'M', 'S', 'G', 'P', 'M', 'T', 'B', 'G', 'D', 'P', 'M', 'V', 'C', 'Q', 'T', 'H', 'R', 'Z', 'B', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  349 to_col is['R', 'N', 'D', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  350 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  350 from_col is['R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  350 to_col is['N', 'D', 'W', 'C', 'M', 'S', 'L', 'D', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  351 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  351 from_col is['F', 'T', 'Z', 'L', 'Q', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  351 to_col is['L', 'G', 'J', 'P', 'B', 'R', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  352 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  352 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  352 to_col is['N', 'D', 'W', 'C', 'M', 'S', 'L', 'D', 'N', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  353 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  353 from_col is['F', 'T', 'Z', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  353 to_col is['N', 'D', 'W', 'C', 'M', 'S', 'L', 'D', 'N', 'R', 'N', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  354 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  354 from_col is['L', 'G', 'J', 'P', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  354 to_col is['S', 'M', 'S', 'G', 'P', 'M', 'T', 'B', 'G', 'D', 'P', 'M', 'V', 'C', 'Q', 'T', 'H', 'R', 'Z', 'B', 'F', 'F', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  355 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  355 from_col is['Z', 'C', 'M', 'H']
+2023-02-12 09:13:34 MST | __main__ | solve -->  355 to_col is['N', 'D', 'W', 'C', 'M', 'S', 'L', 'D', 'N', 'R', 'N', 'Q', 'Q', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  356 last non_empty index is 22
+2023-02-12 09:13:34 MST | __main__ | solve -->  356 from_col is['S', 'M', 'S', 'G', 'P', 'M', 'T', 'B', 'G', 'D', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  356 to_col is['R', 'F', 'F', 'B', 'Z', 'R', 'H', 'T', 'Q', 'C', 'V', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  357 last non_empty index is 10
+2023-02-12 09:13:34 MST | __main__ | solve -->  357 from_col is['S', 'M', 'S', 'G', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  357 to_col is['L', 'G', 'J', 'P', 'B', 'P', 'D', 'G', 'B', 'T', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  358 last non_empty index is 13
+2023-02-12 09:13:34 MST | __main__ | solve -->  358 from_col is['N', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  358 to_col is['F', 'T', 'Z', 'L', 'T', 'Q', 'Q', 'N', 'R', 'N', 'D', 'L', 'S', 'M', 'C', 'W']
+2023-02-12 09:13:34 MST | __main__ | solve -->  359 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  359 from_col is['L', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  359 to_col is['Z', 'C', 'M', 'H', 'P', 'S', 'F', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  360 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  360 from_col is['S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  360 to_col is['F', 'T', 'Z', 'L', 'T', 'Q', 'Q', 'N', 'R', 'N', 'D', 'L', 'S', 'M', 'C', 'W', 'P', 'G', 'S', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  361 last non_empty index is 11
+2023-02-12 09:13:34 MST | __main__ | solve -->  361 from_col is['R', 'F', 'F', 'B', 'Z', 'R', 'H', 'T', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  361 to_col is['S', 'M', 'V', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  362 last non_empty index is 10
+2023-02-12 09:13:34 MST | __main__ | solve -->  362 from_col is['L', 'G', 'J', 'P', 'B', 'P', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  362 to_col is['M', 'T', 'B', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  363 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  363 from_col is['S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  363 to_col is['L', 'J', 'C', 'V', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  364 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  364 from_col is['R', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  364 to_col is['N', 'D', 'Q', 'T', 'H', 'R', 'Z', 'B', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  365 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  365 from_col is['R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  365 to_col is['Z', 'C', 'M', 'H', 'P', 'S', 'F', 'V', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  366 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  366 from_col is['L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  366 to_col is['N', 'D', 'Q', 'T', 'H', 'R', 'Z', 'B', 'F', 'D', 'P', 'B', 'P', 'J', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  367 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  367 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  367 to_col is['Z', 'C', 'M', 'H', 'P', 'S', 'F', 'V', 'F', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  368 last non_empty index is 9
+2023-02-12 09:13:34 MST | __main__ | solve -->  368 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  368 to_col is['N', 'D', 'Q', 'T', 'H', 'R', 'Z', 'B', 'F', 'D', 'P', 'B', 'P', 'J', 'G', 'R', 'F', 'V', 'F', 'S', 'P', 'H', 'M', 'C', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  369 last non_empty index is 24
+2023-02-12 09:13:34 MST | __main__ | solve -->  369 from_col is['N', 'D', 'Q', 'T', 'H', 'R', 'Z', 'B', 'F', 'D', 'P', 'B', 'P', 'J', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  369 to_col is['Z', 'C', 'M', 'H', 'P', 'S', 'F', 'V', 'F', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  370 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  370 from_col is['L', 'J', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  370 to_col is['S', 'M', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  371 last non_empty index is 14
+2023-02-12 09:13:34 MST | __main__ | solve -->  371 from_col is['N', 'D', 'Q', 'T', 'H', 'R', 'Z', 'B', 'F', 'D', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  371 to_col is['S', 'M', 'V', 'G', 'J', 'P', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  372 last non_empty index is 10
+2023-02-12 09:13:34 MST | __main__ | solve -->  372 from_col is['N', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  372 to_col is['P', 'D', 'F', 'B', 'Z', 'R', 'H', 'T', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  373 last non_empty index is 19
+2023-02-12 09:13:34 MST | __main__ | solve -->  373 from_col is['F', 'T', 'Z', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  373 to_col is['L', 'M', 'S', 'G', 'P', 'W', 'C', 'M', 'S', 'L', 'D', 'N', 'R', 'N', 'Q', 'Q', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  374 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  374 from_col is['F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  374 to_col is['L', 'M', 'S', 'G', 'P', 'W', 'C', 'M', 'S', 'L', 'D', 'N', 'R', 'N', 'Q', 'Q', 'T', 'L', 'Z', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  375 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  375 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  375 to_col is['P', 'D', 'F', 'B', 'Z', 'R', 'H', 'T', 'Q', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  376 last non_empty index is 9
+2023-02-12 09:13:34 MST | __main__ | solve -->  376 from_col is['Z', 'C', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  376 to_col is['P', 'D', 'F', 'B', 'Z', 'R', 'H', 'T', 'Q', 'F', 'R', 'F', 'V', 'F', 'S', 'P', 'H']
+2023-02-12 09:13:34 MST | __main__ | solve -->  377 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  377 from_col is['S', 'M', 'V', 'G', 'J', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  377 to_col is['L', 'J', 'C', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  378 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  378 from_col is['N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  378 to_col is['P', 'D', 'F', 'B', 'Z', 'R', 'H', 'T', 'Q', 'F', 'R', 'F', 'V', 'F', 'S', 'P', 'H', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  379 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  379 from_col is['Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  379 to_col is['P', 'D', 'F', 'B', 'Z', 'R', 'H', 'T', 'Q', 'F', 'R', 'F', 'V', 'F', 'S', 'P', 'H', 'D', 'M', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  380 last non_empty index is 19
+2023-02-12 09:13:34 MST | __main__ | solve -->  380 from_col is['P', 'D', 'F', 'B', 'Z', 'R', 'H', 'T', 'Q', 'F', 'R', 'F', 'V', 'F', 'S', 'P', 'H']
+2023-02-12 09:13:34 MST | __main__ | solve -->  380 to_col is['M', 'T', 'B', 'G', 'C', 'M', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  381 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  381 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  381 to_col is['N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  382 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  382 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  382 to_col is['P', 'D', 'F', 'B', 'Z', 'R', 'H', 'T', 'Q', 'F', 'R', 'F', 'V', 'F', 'S', 'P', 'H', 'D', 'M', 'C', 'G', 'B', 'T', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  383 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  383 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  383 to_col is['Z', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  384 last non_empty index is 23
+2023-02-12 09:13:34 MST | __main__ | solve -->  384 from_col is['P', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  384 to_col is['M', 'T', 'B', 'G', 'C', 'M', 'D', 'H', 'P', 'S', 'F', 'V', 'F', 'R', 'F', 'Q', 'T', 'H', 'R', 'Z', 'B', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  385 last non_empty index is 19
+2023-02-12 09:13:34 MST | __main__ | solve -->  385 from_col is['L', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  385 to_col is['L', 'J', 'C', 'B', 'T', 'Z', 'L', 'T', 'Q', 'Q', 'N', 'R', 'N', 'D', 'L', 'S', 'M', 'C', 'W', 'P', 'G', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  386 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  386 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  386 to_col is['Z', 'N', 'P', 'J', 'G', 'V', 'M', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  387 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  387 from_col is['Z', 'N', 'P', 'J', 'G', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  387 to_col is['L', 'M', 'S', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  388 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  388 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  388 to_col is['D', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  389 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  389 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  389 to_col is['M', 'S', 'M', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  390 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  390 from_col is['D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  390 to_col is['M', 'S', 'M', 'L', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  391 last non_empty index is 21
+2023-02-12 09:13:34 MST | __main__ | solve -->  391 from_col is['M', 'T', 'B', 'G', 'C', 'M', 'D', 'H', 'P', 'S', 'F', 'V', 'F', 'R', 'F', 'Q', 'T', 'H', 'R', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  391 to_col is['Z', 'N', 'P', 'J', 'G', 'V', 'F', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  392 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  392 from_col is['Z', 'N', 'P', 'J', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  392 to_col is['M', 'S', 'M', 'L', 'P', 'B', 'F', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  393 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  393 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  393 to_col is['M', 'S', 'M', 'L', 'P', 'B', 'F', 'V', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  394 last non_empty index is 21
+2023-02-12 09:13:34 MST | __main__ | solve -->  394 from_col is['L', 'J', 'C', 'B', 'T', 'Z', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  394 to_col is['M', 'S', 'M', 'L', 'P', 'B', 'F', 'V', 'D', 'S', 'G', 'P', 'W', 'C', 'M', 'S', 'L', 'D', 'N', 'R', 'N', 'Q', 'Q', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  395 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  395 from_col is['L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  395 to_col is['L', 'Z', 'T', 'B', 'C', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  396 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  396 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  396 to_col is['M', 'T', 'B', 'G', 'C', 'M', 'D', 'H', 'P', 'S', 'F', 'V', 'F', 'R', 'F', 'Q', 'T', 'H', 'R', 'Z', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  397 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  397 from_col is['Z', 'N', 'P', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  397 to_col is['G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  398 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  398 from_col is['L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  398 to_col is['G', 'J', 'C', 'B', 'T', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  399 last non_empty index is 20
+2023-02-12 09:13:34 MST | __main__ | solve -->  399 from_col is['M', 'T', 'B', 'G', 'C', 'M', 'D', 'H', 'P', 'S', 'F', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  399 to_col is['M', 'S', 'M', 'L', 'P', 'B', 'F', 'V', 'D', 'S', 'G', 'P', 'W', 'C', 'M', 'S', 'L', 'D', 'N', 'R', 'N', 'Q', 'Q', 'T', 'L', 'Z', 'R', 'H', 'T', 'Q', 'F', 'R', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  400 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  400 from_col is['Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  400 to_col is['J', 'P', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  401 last non_empty index is 11
+2023-02-12 09:13:34 MST | __main__ | solve -->  401 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  401 to_col is['G', 'J', 'C', 'B', 'T', 'Z', 'V', 'F', 'S', 'P', 'H', 'D', 'M', 'C', 'G', 'B', 'T', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  402 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  402 from_col is['J', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  402 to_col is['L', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  403 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  403 from_col is['L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  403 to_col is['J', 'P', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  404 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  404 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  404 to_col is['N', 'P', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  405 last non_empty index is 32
+2023-02-12 09:13:34 MST | __main__ | solve -->  405 from_col is['M', 'S', 'M', 'L', 'P', 'B', 'F', 'V', 'D', 'S', 'G', 'P', 'W', 'C', 'M', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  405 to_col is['F', 'R', 'F', 'Q', 'T', 'H', 'R', 'Z', 'L', 'T', 'Q', 'Q', 'N', 'R', 'N', 'D', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  406 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  406 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  406 to_col is['M', 'S', 'M', 'L', 'P', 'B', 'F', 'V', 'D', 'S', 'G', 'P', 'W', 'C', 'M', 'S', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  407 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  407 from_col is['N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  407 to_col is['J', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  408 last non_empty index is 16
+2023-02-12 09:13:34 MST | __main__ | solve -->  408 from_col is['M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  408 to_col is['J', 'P', 'Z', 'S', 'M', 'C', 'W', 'P', 'G', 'S', 'D', 'V', 'F', 'B', 'P', 'L', 'M', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  409 last non_empty index is 17
+2023-02-12 09:13:34 MST | __main__ | solve -->  409 from_col is['J', 'P', 'Z', 'S', 'M', 'C', 'W', 'P', 'G', 'S', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  409 to_col is['M', 'S', 'M', 'L', 'P', 'B', 'F', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  410 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  410 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  410 to_col is['L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  411 last non_empty index is 10
+2023-02-12 09:13:34 MST | __main__ | solve -->  411 from_col is['J', 'P', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  411 to_col is['D', 'S', 'G', 'P', 'W', 'C', 'M', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  412 last non_empty index is 17
+2023-02-12 09:13:34 MST | __main__ | solve -->  412 from_col is['G', 'J', 'C', 'B', 'T', 'Z', 'V', 'F', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  412 to_col is['M', 'T', 'B', 'G', 'C', 'M', 'D', 'H', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  413 last non_empty index is 16
+2023-02-12 09:13:34 MST | __main__ | solve -->  413 from_col is['F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  413 to_col is['L', 'L', 'D', 'N', 'R', 'N', 'Q', 'Q', 'T', 'L', 'Z', 'R', 'H', 'T', 'Q', 'F', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  414 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  414 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  414 to_col is['D', 'S', 'G', 'P', 'W', 'C', 'M', 'S', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  415 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  415 from_col is['D', 'S', 'G', 'P', 'W', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  415 to_col is['N', 'S', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  416 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  416 from_col is['M', 'S', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  416 to_col is['V', 'F', 'B', 'P', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  417 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  417 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  417 to_col is['L', 'L', 'D', 'N', 'R', 'N', 'Q', 'Q', 'T', 'L', 'Z', 'R', 'H', 'T', 'Q', 'F', 'R', 'M', 'S', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  418 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  418 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  418 to_col is['L', 'L', 'D', 'N', 'R', 'N', 'Q', 'Q', 'T', 'L', 'Z', 'R', 'H', 'T', 'Q', 'F', 'R', 'M', 'S', 'N', 'M', 'S', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  419 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  419 from_col is['G', 'J', 'C', 'B', 'T', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  419 to_col is['F', 'S', 'F', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  420 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  420 from_col is['M', 'T', 'B', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  420 to_col is['D', 'S', 'G', 'P', 'W', 'C', 'P', 'H', 'D', 'M', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  421 last non_empty index is 10
+2023-02-12 09:13:34 MST | __main__ | solve -->  421 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  421 to_col is['L', 'L', 'D', 'N', 'R', 'N', 'Q', 'Q', 'T', 'L', 'Z', 'R', 'H', 'T', 'Q', 'F', 'R', 'M', 'S', 'N', 'M', 'S', 'M', 'C', 'M', 'D', 'H', 'P', 'C', 'W', 'P', 'G', 'S', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  422 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  422 from_col is['F', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  422 to_col is['L', 'L', 'D', 'N', 'R', 'N', 'Q', 'Q', 'T', 'L', 'Z', 'R', 'H', 'T', 'Q', 'F', 'R', 'M', 'S', 'N', 'M', 'S', 'M', 'C', 'M', 'D', 'H', 'P', 'C', 'W', 'P', 'G', 'S', 'D', 'V', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  423 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  423 from_col is['V', 'F', 'B', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  423 to_col is['L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  424 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  424 from_col is['F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  424 to_col is['S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  425 last non_empty index is 35
+2023-02-12 09:13:34 MST | __main__ | solve -->  425 from_col is['L', 'L', 'D', 'N', 'R', 'N', 'Q', 'Q', 'T', 'L', 'Z', 'R', 'H', 'T', 'Q', 'F', 'R', 'M', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  425 to_col is['G', 'J', 'C', 'B', 'T', 'Z', 'F', 'V', 'D', 'S', 'G', 'P', 'W', 'C', 'P', 'H', 'D', 'M', 'C', 'M', 'S', 'M', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  426 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  426 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  426 to_col is['V', 'F', 'B', 'P', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  427 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  427 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  427 to_col is['S', 'Z', 'P', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  428 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  428 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  428 to_col is['V', 'F', 'B', 'P', 'F', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  429 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  429 from_col is['S', 'Z', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  429 to_col is['J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  430 last non_empty index is 18
+2023-02-12 09:13:34 MST | __main__ | solve -->  430 from_col is['L', 'L', 'D', 'N', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  430 to_col is['S', 'Z', 'P', 'S', 'M', 'R', 'F', 'Q', 'T', 'H', 'R', 'Z', 'L', 'T', 'Q', 'Q', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  431 last non_empty index is 22
+2023-02-12 09:13:34 MST | __main__ | solve -->  431 from_col is['G', 'J', 'C', 'B', 'T', 'Z', 'F', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  431 to_col is['S', 'Z', 'P', 'S', 'M', 'R', 'F', 'Q', 'T', 'H', 'R', 'Z', 'L', 'T', 'Q', 'Q', 'N', 'N', 'M', 'S', 'M', 'C', 'M', 'D', 'H', 'P', 'C', 'W', 'P', 'G', 'S', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  432 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  432 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  432 to_col is['L', 'L', 'D', 'N', 'R', 'G', 'B', 'T', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  433 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  433 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  433 to_col is['L', 'L', 'D', 'N', 'R', 'G', 'B', 'T', 'M', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  434 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  434 from_col is['G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  434 to_col is['V', 'F', 'Z', 'T', 'B', 'C', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  435 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  435 from_col is['V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  435 to_col is['G', 'L', 'F', 'P', 'B', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  436 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  436 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  436 to_col is['J', 'C', 'B', 'T', 'Z', 'F', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  437 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  437 from_col is['J', 'C', 'B', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  437 to_col is['L', 'L', 'D', 'N', 'R', 'G', 'B', 'T', 'M', 'J', 'V', 'F', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  438 last non_empty index is 31
+2023-02-12 09:13:34 MST | __main__ | solve -->  438 from_col is['S', 'Z', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  438 to_col is['D', 'S', 'G', 'P', 'W', 'C', 'P', 'H', 'D', 'M', 'C', 'M', 'S', 'M', 'N', 'N', 'Q', 'Q', 'T', 'L', 'Z', 'R', 'H', 'T', 'Q', 'F', 'R', 'M', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  439 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  439 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  439 to_col is['D', 'S', 'G', 'P', 'W', 'C', 'P', 'H', 'D', 'M', 'C', 'M', 'S', 'M', 'N', 'N', 'Q', 'Q', 'T', 'L', 'Z', 'R', 'H', 'T', 'Q', 'F', 'R', 'M', 'S', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  440 last non_empty index is 29
+2023-02-12 09:13:34 MST | __main__ | solve -->  440 from_col is['D', 'S', 'G', 'P', 'W', 'C', 'P', 'H', 'D', 'M', 'C', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  440 to_col is['V', 'S', 'M', 'R', 'F', 'Q', 'T', 'H', 'R', 'Z', 'L', 'T', 'Q', 'Q', 'N', 'N', 'M', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  441 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  441 from_col is['J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  441 to_col is['D', 'S', 'G', 'P', 'W', 'C', 'P', 'H', 'D', 'M', 'C', 'M', 'T', 'B', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  442 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  442 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  442 to_col is['L', 'L', 'D', 'N', 'R', 'G', 'B', 'T', 'M', 'J', 'V', 'F', 'Z', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  443 last non_empty index is 17
+2023-02-12 09:13:34 MST | __main__ | solve -->  443 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  443 to_col is['D', 'S', 'G', 'P', 'W', 'C', 'P', 'H', 'D', 'M', 'C', 'M', 'T', 'B', 'C', 'S', 'M', 'N', 'N', 'Q', 'Q', 'T', 'L', 'Z', 'R', 'H', 'T', 'Q', 'F', 'R', 'M', 'S', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  444 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  444 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  444 to_col is['P', 'Z', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  445 last non_empty index is 32
+2023-02-12 09:13:34 MST | __main__ | solve -->  445 from_col is['D', 'S', 'G', 'P', 'W', 'C', 'P', 'H', 'D', 'M', 'C', 'M', 'T', 'B', 'C', 'S', 'M', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  445 to_col is['V', 'S', 'M', 'R', 'F', 'Q', 'T', 'H', 'R', 'Z', 'L', 'T', 'Q', 'Q', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  446 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  446 from_col is['P', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  446 to_col is['V', 'S', 'M', 'R', 'F', 'Q', 'T', 'H', 'R', 'Z', 'L', 'T', 'Q', 'Q', 'N', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  447 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  447 from_col is['P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  447 to_col is['D', 'S', 'G', 'P', 'W', 'C', 'P', 'H', 'D', 'M', 'C', 'M', 'T', 'B', 'C', 'S', 'M', 'N', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  448 last non_empty index is 18
+2023-02-12 09:13:34 MST | __main__ | solve -->  448 from_col is['D', 'S', 'G', 'P', 'W', 'C', 'P', 'H', 'D', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  448 to_col is['V', 'S', 'M', 'R', 'F', 'Q', 'T', 'H', 'R', 'Z', 'L', 'T', 'Q', 'Q', 'N', 'S', 'Z', 'N', 'M', 'S', 'C', 'B', 'T', 'M', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  449 last non_empty index is 24
+2023-02-12 09:13:34 MST | __main__ | solve -->  449 from_col is['V', 'S', 'M', 'R', 'F', 'Q', 'T', 'H', 'R', 'Z', 'L', 'T', 'Q', 'Q', 'N', 'S', 'Z', 'N', 'M', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  449 to_col is['C', 'M', 'T', 'B', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  450 last non_empty index is 19
+2023-02-12 09:13:34 MST | __main__ | solve -->  450 from_col is['V', 'S', 'M', 'R', 'F', 'Q', 'T', 'H', 'R', 'Z', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  450 to_col is['P', 'S', 'M', 'N', 'Z', 'S', 'N', 'Q', 'Q', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  451 last non_empty index is 9
+2023-02-12 09:13:34 MST | __main__ | solve -->  451 from_col is['D', 'S', 'G', 'P', 'W', 'C', 'P', 'H']
+2023-02-12 09:13:34 MST | __main__ | solve -->  451 to_col is['C', 'M', 'T', 'B', 'C', 'M', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  452 last non_empty index is 9
+2023-02-12 09:13:34 MST | __main__ | solve -->  452 from_col is['P', 'S', 'M', 'N', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  452 to_col is['T', 'Q', 'Q', 'N', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  453 last non_empty index is 13
+2023-02-12 09:13:34 MST | __main__ | solve -->  453 from_col is['L', 'L', 'D', 'N', 'R', 'G', 'B', 'T', 'M', 'J', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  453 to_col is['G', 'L', 'F', 'P', 'B', 'F', 'J', 'Z', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  454 last non_empty index is 10
+2023-02-12 09:13:34 MST | __main__ | solve -->  454 from_col is['L', 'L', 'D', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  454 to_col is['P', 'S', 'M', 'N', 'Z', 'V', 'J', 'M', 'T', 'B', 'G', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  455 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  455 from_col is['D', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  455 to_col is['T', 'Q', 'Q', 'N', 'S', 'H', 'P', 'C', 'W', 'P', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  456 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  456 from_col is['C', 'M', 'T', 'B', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  456 to_col is['L', 'L', 'D', 'N', 'D', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  457 last non_empty index is 11
+2023-02-12 09:13:34 MST | __main__ | solve -->  457 from_col is['P', 'S', 'M', 'N', 'Z', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  457 to_col is['R', 'G', 'B', 'T', 'M', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  458 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  458 from_col is['R', 'G', 'B', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  458 to_col is['D', 'S', 'J', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  459 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  459 from_col is['R', 'G', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  459 to_col is['G', 'L', 'F', 'P', 'B', 'F', 'J', 'Z', 'F', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  460 last non_empty index is 10
+2023-02-12 09:13:34 MST | __main__ | solve -->  460 from_col is['T', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  460 to_col is['G', 'P', 'W', 'C', 'P', 'H', 'S', 'N', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  461 last non_empty index is 9
+2023-02-12 09:13:34 MST | __main__ | solve -->  461 from_col is['G', 'L', 'F', 'P', 'B', 'F', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  461 to_col is['C', 'M', 'T', 'B', 'C', 'T', 'F', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  462 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  462 from_col is['G', 'P', 'W', 'C', 'P', 'H', 'S', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  462 to_col is['V', 'S', 'M', 'R', 'F', 'Q', 'T', 'H', 'R', 'Z', 'L', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  463 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  463 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  463 to_col is['D', 'S', 'J', 'M', 'M', 'D', 'N', 'D', 'L', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  464 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  464 from_col is['G', 'P', 'W', 'C', 'P', 'H']
+2023-02-12 09:13:34 MST | __main__ | solve -->  464 to_col is['R', 'G', 'B', 'N', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  465 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  465 from_col is['G', 'L', 'F', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  465 to_col is['P', 'S', 'M', 'N', 'Z', 'V', 'J', 'F', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  466 last non_empty index is 9
+2023-02-12 09:13:34 MST | __main__ | solve -->  466 from_col is['D', 'S', 'J', 'M', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  466 to_col is['R', 'G', 'B', 'N', 'S', 'L', 'L', 'D', 'N', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  467 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  467 from_col is['T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  467 to_col is['G', 'L', 'F', 'P', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  468 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  468 from_col is['C', 'M', 'T', 'B', 'C', 'T', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  468 to_col is['V', 'S', 'M', 'R', 'F', 'Q', 'T', 'H', 'R', 'Z', 'L', 'Q', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  469 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  469 from_col is['C', 'M', 'T', 'B', 'C', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  469 to_col is['D', 'S', 'J', 'M', 'M', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  470 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  470 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  470 to_col is['P', 'S', 'M', 'N', 'Z', 'V', 'J', 'F', 'B', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  471 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  471 from_col is['G', 'L', 'F', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  471 to_col is['C', 'M', 'T', 'B', 'C', 'T', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  472 last non_empty index is 9
+2023-02-12 09:13:34 MST | __main__ | solve -->  472 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  472 to_col is['D', 'N', 'D', 'L', 'L', 'S', 'N', 'B', 'G', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  473 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  473 from_col is['G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  473 to_col is['G', 'P', 'W', 'C', 'P', 'H', 'P', 'F', 'L']
+2023-02-12 09:13:34 MST | __main__ | solve -->  474 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  474 from_col is['G', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  474 to_col is['D', 'S', 'J', 'M', 'M', 'F', 'L', 'F', 'P', 'H', 'P', 'C', 'W']
+2023-02-12 09:13:34 MST | __main__ | solve -->  475 last non_empty index is 9
+2023-02-12 09:13:34 MST | __main__ | solve -->  475 from_col is['P', 'S', 'M', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  475 to_col is['D', 'N', 'D', 'L', 'L', 'S', 'N', 'B', 'G', 'R', 'T', 'B', 'F', 'J', 'V', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  476 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  476 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  476 to_col is['N', 'M', 'S', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  477 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  477 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  477 to_col is['G', 'P', 'Q', 'T', 'C', 'B', 'T', 'M', 'C']
+2023-02-12 09:13:34 MST | __main__ | solve -->  478 last non_empty index is 15
+2023-02-12 09:13:34 MST | __main__ | solve -->  478 from_col is['D', 'N', 'D', 'L', 'L', 'S', 'N', 'B', 'G', 'R', 'T', 'B', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  478 to_col is['V', 'S', 'M', 'R', 'F', 'Q', 'T', 'H', 'R', 'Z', 'L', 'Q', 'Z', 'Z', 'V', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  479 last non_empty index is 15
+2023-02-12 09:13:34 MST | __main__ | solve -->  479 from_col is['V', 'S', 'M', 'R', 'F', 'Q', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  479 to_col is['J', 'V', 'Z', 'Z', 'Q', 'L', 'Z', 'R', 'H']
+2023-02-12 09:13:34 MST | __main__ | solve -->  480 last non_empty index is 12
+2023-02-12 09:13:34 MST | __main__ | solve -->  480 from_col is['D', 'N', 'D', 'L', 'L', 'S', 'N', 'B']
+2023-02-12 09:13:34 MST | __main__ | solve -->  480 to_col is['G', 'F', 'B', 'T', 'R', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  481 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  481 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  481 to_col is['D', 'S', 'J', 'M', 'M', 'F', 'L', 'F', 'P', 'H', 'P', 'C', 'W', 'T', 'Q', 'F', 'R', 'M', 'S', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  482 last non_empty index is 19
+2023-02-12 09:13:34 MST | __main__ | solve -->  482 from_col is['D', 'S', 'J', 'M', 'M', 'F', 'L', 'F', 'P']
+2023-02-12 09:13:34 MST | __main__ | solve -->  482 to_col is['G', 'P', 'Q', 'T', 'C', 'B', 'T', 'M', 'C', 'V', 'S', 'M', 'R', 'F', 'Q', 'T', 'W', 'C', 'P', 'H']
+2023-02-12 09:13:34 MST | __main__ | solve -->  483 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  483 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  483 to_col is['P', 'S', 'M', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  484 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  484 from_col is['D', 'S', 'J', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  484 to_col is['D', 'N', 'D', 'L', 'L', 'S', 'N', 'B', 'P', 'F', 'L', 'F', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  485 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  485 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  485 to_col is['M', 'J', 'S', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  486 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  486 from_col is['P', 'S', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  486 to_col is['N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  487 last non_empty index is 12
+2023-02-12 09:13:34 MST | __main__ | solve -->  487 from_col is['D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  487 to_col is['M', 'F', 'L', 'F', 'P', 'B', 'N', 'S', 'L', 'L', 'D', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  488 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  488 from_col is['M', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  488 to_col is['D', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  489 last non_empty index is 5
+2023-02-12 09:13:34 MST | __main__ | solve -->  489 from_col is['G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  489 to_col is['D', 'G', 'R', 'T', 'B', 'F']
+2023-02-12 09:13:34 MST | __main__ | solve -->  490 last non_empty index is 8
+2023-02-12 09:13:34 MST | __main__ | solve -->  490 from_col is['J', 'V']
+2023-02-12 09:13:34 MST | __main__ | solve -->  490 to_col is['N', 'H', 'R', 'Z', 'L', 'Q', 'Z', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  491 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  491 from_col is['M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  491 to_col is['M', 'F', 'L', 'F', 'P', 'B', 'N', 'S', 'L', 'L', 'D', 'N', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  492 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  492 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  492 to_col is['D', 'S', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  493 last non_empty index is 12
+2023-02-12 09:13:34 MST | __main__ | solve -->  493 from_col is['M', 'F', 'L', 'F', 'P', 'B', 'N', 'S', 'L', 'L', 'D', 'N']
+2023-02-12 09:13:34 MST | __main__ | solve -->  493 to_col is['D', 'G', 'R', 'T', 'B', 'F', 'J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  494 last non_empty index is 2
+2023-02-12 09:13:34 MST | __main__ | solve -->  494 from_col is['D', 'S']
+2023-02-12 09:13:34 MST | __main__ | solve -->  494 to_col is['G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  495 last non_empty index is 6
+2023-02-12 09:13:34 MST | __main__ | solve -->  495 from_col is['D', 'G']
+2023-02-12 09:13:34 MST | __main__ | solve -->  495 to_col is['G', 'J', 'F', 'B', 'T', 'R']
+2023-02-12 09:13:34 MST | __main__ | solve -->  496 last non_empty index is 1
+2023-02-12 09:13:34 MST | __main__ | solve -->  496 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  496 to_col is['J', 'V', 'G', 'D']
+2023-02-12 09:13:34 MST | __main__ | solve -->  497 last non_empty index is 7
+2023-02-12 09:13:34 MST | __main__ | solve -->  497 from_col is['N', 'H', 'R', 'Z', 'L', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  497 to_col is['P', 'S', 'M', 'Z', 'Z']
+2023-02-12 09:13:34 MST | __main__ | solve -->  498 last non_empty index is 19
+2023-02-12 09:13:34 MST | __main__ | solve -->  498 from_col is['G', 'P', 'Q', 'T', 'C', 'B', 'T', 'M', 'C', 'V', 'S', 'M', 'R', 'F', 'Q']
+2023-02-12 09:13:34 MST | __main__ | solve -->  498 to_col is['H', 'P', 'C', 'W', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  499 last non_empty index is 4
+2023-02-12 09:13:34 MST | __main__ | solve -->  499 from_col is['H', 'P', 'C', 'W']
+2023-02-12 09:13:34 MST | __main__ | solve -->  499 to_col is['D', 'S', 'T']
+2023-02-12 09:13:34 MST | __main__ | solve -->  500 last non_empty index is 0
+2023-02-12 09:13:34 MST | __main__ | solve -->  500 from_col is[]
+2023-02-12 09:13:34 MST | __main__ | solve -->  500 to_col is['N', 'H', 'R', 'Z', 'L', 'Q', 'M']
+2023-02-12 09:13:34 MST | __main__ | solve -->  501 last non_empty index is 3
+2023-02-12 09:13:34 MST | __main__ | solve -->  501 from_col is['J']
+2023-02-12 09:13:34 MST | __main__ | solve -->  501 to_col is['D', 'G', 'V']
