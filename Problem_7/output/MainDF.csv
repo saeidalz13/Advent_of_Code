@@ -1,0 +1,1015 @@
+text,directories,files,commands,size,ls,command,all_dirs_checked,parent_dirs
+$ cd /,,,$ cd /,,,cd_check,0,0
+$ ls,,,$ ls,,list_check,,1,0
+dir blgtdv,blgtdv,,,,,,1,0
+dir dbrfcz,dbrfcz,,,,,,1,0
+dir fvspj,fvspj,,,,,,1,0
+dir hbjmndt,hbjmndt,,,,,,1,0
+dir hzg,hzg,,,,,,1,0
+dir jpjgdm,jpjgdm,,,,,,1,0
+dir mtd,mtd,,,,,,1,0
+dir pcpf,pcpf,,,,,,1,0
+dir qfttswwv,qfttswwv,,,,,,1,0
+dir qrd,qrd,,,,,,1,0
+dir zwqgg,zwqgg,,,,,,1,1
+$ cd blgtdv,,,$ cd blgtdv,,,cd_check,1,1
+$ ls,,,$ ls,,list_check,,2,1
+dir bjlcfcfq,bjlcfcfq,,,,,,2,1
+83465 bnm,,bnm,,83465.0,,,2,1
+165543 cllbb,,cllbb,,165543.0,,,2,1
+137127 cvbnjz.wzp,,cvbnjz.wzp,,137127.0,,,2,1
+dir gzzz,gzzz,,,,,,2,1
+dir nbdzs,nbdzs,,,,,,2,1
+dir vvmcfptr,vvmcfptr,,,,,,2,1
+dir wjvzwssp,wjvzwssp,,,,,,2,1
+$ cd bjlcfcfq,,,$ cd bjlcfcfq,,,cd_check,2,1
+$ ls,,,$ ls,,list_check,,3,1
+dir fvspj,fvspj,,,,,,3,1
+dir pwcvj,pwcvj,,,,,,3,1
+dir tvhrzql,tvhrzql,,,,,,3,1
+$ cd fvspj,,,$ cd fvspj,,,cd_check,3,1
+$ ls,,,$ ls,,list_check,,4,1
+315202 cqwb.qzt,,cqwb.qzt,,315202.0,,,4,1
+12768 lmdtnsmr,,lmdtnsmr,,12768.0,,,4,1
+$ cd ..,,,$ cd ..,,,cd_check,4,1
+$ cd pwcvj,,,$ cd pwcvj,,,cd_check,4,1
+$ ls,,,$ ls,,list_check,,5,1
+dir bjp,bjp,,,,,,5,1
+138548 btj.sdn,,btj.sdn,,138548.0,,,5,1
+140056 cllbb,,cllbb,,140056.0,,,5,1
+dir drsgv,drsgv,,,,,,5,1
+311875 fvspj,,fvspj,,311875.0,,,5,1
+dir lpv,lpv,,,,,,5,1
+dir mmtsh,mmtsh,,,,,,5,1
+dir pwcvj,pwcvj,,,,,,5,1
+252680 qrd.ngg,,qrd.ngg,,252680.0,,,5,1
+dir rdftpm,rdftpm,,,,,,5,1
+dir rzhq,rzhq,,,,,,5,1
+$ cd bjp,,,$ cd bjp,,,cd_check,5,1
+$ ls,,,$ ls,,list_check,,6,1
+dir scggvb,scggvb,,,,,,6,1
+$ cd scggvb,,,$ cd scggvb,,,cd_check,6,1
+$ ls,,,$ ls,,list_check,,7,1
+29012 lmdtnsmr,,lmdtnsmr,,29012.0,,,7,1
+$ cd ..,,,$ cd ..,,,cd_check,7,1
+$ cd ..,,,$ cd ..,,,cd_check,7,1
+$ cd drsgv,,,$ cd drsgv,,,cd_check,7,1
+$ ls,,,$ ls,,list_check,,8,1
+41717 btj.sdn,,btj.sdn,,41717.0,,,8,1
+203587 jctnszj.nnc,,jctnszj.nnc,,203587.0,,,8,1
+304614 rdvjhjjr.bbt,,rdvjhjjr.bbt,,304614.0,,,8,1
+$ cd ..,,,$ cd ..,,,cd_check,8,1
+$ cd lpv,,,$ cd lpv,,,cd_check,8,1
+$ ls,,,$ ls,,list_check,,9,1
+292112 nlrbdjhf,,nlrbdjhf,,292112.0,,,9,1
+304873 rdvjhjjr.bbt,,rdvjhjjr.bbt,,304873.0,,,9,1
+$ cd ..,,,$ cd ..,,,cd_check,9,1
+$ cd mmtsh,,,$ cd mmtsh,,,cd_check,9,1
+$ ls,,,$ ls,,list_check,,10,1
+12318 fbvvrvc.shb,,fbvvrvc.shb,,12318.0,,,10,1
+$ cd ..,,,$ cd ..,,,cd_check,10,1
+$ cd pwcvj,,,$ cd pwcvj,,,cd_check,10,1
+$ ls,,,$ ls,,list_check,,11,1
+dir dnfnl,dnfnl,,,,,,11,1
+$ cd dnfnl,,,$ cd dnfnl,,,cd_check,11,1
+$ ls,,,$ ls,,list_check,,12,1
+191701 qfswvhj.wgs,,qfswvhj.wgs,,191701.0,,,12,1
+$ cd ..,,,$ cd ..,,,cd_check,12,1
+$ cd ..,,,$ cd ..,,,cd_check,12,1
+$ cd rdftpm,,,$ cd rdftpm,,,cd_check,12,1
+$ ls,,,$ ls,,list_check,,13,1
+157406 fvwcjbsl.tdr,,fvwcjbsl.tdr,,157406.0,,,13,1
+59827 jfdbcwln.frw,,jfdbcwln.frw,,59827.0,,,13,1
+$ cd ..,,,$ cd ..,,,cd_check,13,1
+$ cd rzhq,,,$ cd rzhq,,,cd_check,13,1
+$ ls,,,$ ls,,list_check,,14,1
+dir wcnm,wcnm,,,,,,14,1
+$ cd wcnm,,,$ cd wcnm,,,cd_check,14,1
+$ ls,,,$ ls,,list_check,,15,1
+149296 wljbd,,wljbd,,149296.0,,,15,1
+$ cd ..,,,$ cd ..,,,cd_check,15,1
+$ cd ..,,,$ cd ..,,,cd_check,15,1
+$ cd ..,,,$ cd ..,,,cd_check,15,1
+$ cd tvhrzql,,,$ cd tvhrzql,,,cd_check,15,1
+$ ls,,,$ ls,,list_check,,16,1
+322339 hhlh.tdw,,hhlh.tdw,,322339.0,,,16,1
+$ cd ..,,,$ cd ..,,,cd_check,16,1
+$ cd ..,,,$ cd ..,,,cd_check,16,1
+$ cd gzzz,,,$ cd gzzz,,,cd_check,16,1
+$ ls,,,$ ls,,list_check,,17,1
+156023 btj.sdn,,btj.sdn,,156023.0,,,17,1
+$ cd ..,,,$ cd ..,,,cd_check,17,1
+$ cd nbdzs,,,$ cd nbdzs,,,cd_check,17,1
+$ ls,,,$ ls,,list_check,,18,1
+211770 btj.sdn,,btj.sdn,,211770.0,,,18,1
+56822 qqvmpnj,,qqvmpnj,,56822.0,,,18,1
+$ cd ..,,,$ cd ..,,,cd_check,18,1
+$ cd vvmcfptr,,,$ cd vvmcfptr,,,cd_check,18,1
+$ ls,,,$ ls,,list_check,,19,1
+199919 bbsd.mtl,,bbsd.mtl,,199919.0,,,19,1
+44895 sspcnf,,sspcnf,,44895.0,,,19,1
+$ cd ..,,,$ cd ..,,,cd_check,19,1
+$ cd wjvzwssp,,,$ cd wjvzwssp,,,cd_check,19,1
+$ ls,,,$ ls,,list_check,,20,1
+268729 qplvqdv.mch,,qplvqdv.mch,,268729.0,,,20,1
+$ cd ..,,,$ cd ..,,,cd_check,20,1
+$ cd ..,,,$ cd ..,,,cd_check,20,1
+$ cd dbrfcz,,,$ cd dbrfcz,,,cd_check,20,1
+$ ls,,,$ ls,,list_check,,21,1
+26907 fvspj,,fvspj,,26907.0,,,21,1
+207774 lpv.dpq,,lpv.dpq,,207774.0,,,21,1
+$ cd ..,,,$ cd ..,,,cd_check,21,1
+$ cd fvspj,,,$ cd fvspj,,,cd_check,21,1
+$ ls,,,$ ls,,list_check,,22,1
+127312 bjlcfcfq.nhp,,bjlcfcfq.nhp,,127312.0,,,22,1
+dir cdc,cdc,,,,,,22,1
+dir fvspj,fvspj,,,,,,22,1
+104875 mrjf.qsq,,mrjf.qsq,,104875.0,,,22,1
+dir pwcvj,pwcvj,,,,,,22,1
+dir qtnnz,qtnnz,,,,,,22,1
+151668 rdvjhjjr.bbt,,rdvjhjjr.bbt,,151668.0,,,22,1
+304863 swwgtpv.crc,,swwgtpv.crc,,304863.0,,,22,1
+$ cd cdc,,,$ cd cdc,,,cd_check,22,1
+$ ls,,,$ ls,,list_check,,23,1
+278486 dtcdwhjt,,,,278486.0,,,23,1
+221477 frwcvtgq.lgt,,frwcvtgq.lgt,,221477.0,,,23,1
+$ cd ..,,,$ cd ..,,,cd_check,23,1
+$ cd fvspj,,,$ cd fvspj,,,cd_check,23,1
+$ ls,,,$ ls,,list_check,,24,1
+313053 lpv,,lpv,,313053.0,,,24,1
+106354 mrjzgw.fgf,,mrjzgw.fgf,,106354.0,,,24,1
+dir pwcvj,pwcvj,,,,,,24,1
+dir qrd,qrd,,,,,,24,1
+$ cd pwcvj,,,$ cd pwcvj,,,cd_check,24,1
+$ ls,,,$ ls,,list_check,,25,1
+297912 nrc.nrf,,nrc.nrf,,297912.0,,,25,1
+$ cd ..,,,$ cd ..,,,cd_check,25,1
+$ cd qrd,,,$ cd qrd,,,cd_check,25,1
+$ ls,,,$ ls,,list_check,,26,1
+33856 cgjj.hvj,,cgjj.hvj,,33856.0,,,26,1
+$ cd ..,,,$ cd ..,,,cd_check,26,1
+$ cd ..,,,$ cd ..,,,cd_check,26,1
+$ cd pwcvj,,,$ cd pwcvj,,,cd_check,26,1
+$ ls,,,$ ls,,list_check,,27,1
+103274 fvspj,,fvspj,,103274.0,,,27,1
+308112 hjgnqgpn.lzh,,hjgnqgpn.lzh,,308112.0,,,27,1
+284461 qrd.qbf,,qrd.qbf,,284461.0,,,27,1
+$ cd ..,,,$ cd ..,,,cd_check,27,1
+$ cd qtnnz,,,$ cd qtnnz,,,cd_check,27,1
+$ ls,,,$ ls,,list_check,,28,1
+74435 lmdtnsmr,,lmdtnsmr,,74435.0,,,28,1
+253121 rdvjhjjr.bbt,,rdvjhjjr.bbt,,253121.0,,,28,1
+$ cd ..,,,$ cd ..,,,cd_check,28,1
+$ cd ..,,,$ cd ..,,,cd_check,28,1
+$ cd hbjmndt,,,$ cd hbjmndt,,,cd_check,28,1
+$ ls,,,$ ls,,list_check,,29,1
+319596 bjlcfcfq,,bjlcfcfq,,319596.0,,,29,1
+236959 pdcjnfh.pdr,,pdcjnfh.pdr,,236959.0,,,29,1
+75402 pwcvj,,pwcvj,,75402.0,,,29,1
+132359 qrd.hcg,,qrd.hcg,,132359.0,,,29,1
+$ cd ..,,,$ cd ..,,,cd_check,29,1
+$ cd hzg,,,$ cd hzg,,,cd_check,29,1
+$ ls,,,$ ls,,list_check,,30,1
+283914 wfhbbjn.qft,,wfhbbjn.qft,,283914.0,,,30,1
+$ cd ..,,,$ cd ..,,,cd_check,30,1
+$ cd jpjgdm,,,$ cd jpjgdm,,,cd_check,30,1
+$ ls,,,$ ls,,list_check,,31,1
+186272 bjlcfcfq,,bjlcfcfq,,186272.0,,,31,1
+dir fpgcdvm,fpgcdvm,,,,,,31,1
+dir fqh,fqh,,,,,,31,1
+196808 frntppq.npt,,frntppq.npt,,196808.0,,,31,1
+dir mcszw,mcszw,,,,,,31,1
+dir tgrplmn,tgrplmn,,,,,,31,1
+dir tnhs,tnhs,,,,,,31,1
+124656 vqbnc.pls,,,,124656.0,,,31,1
+$ cd fpgcdvm,,,$ cd fpgcdvm,,,cd_check,31,1
+$ ls,,,$ ls,,list_check,,32,1
+150164 bbsd.mtl,,bbsd.mtl,,150164.0,,,32,1
+dir lsj,lsj,,,,,,32,1
+dir qrd,qrd,,,,,,32,1
+72301 qrd.dlm,,qrd.dlm,,72301.0,,,32,1
+184042 rdvjhjjr.bbt,,rdvjhjjr.bbt,,184042.0,,,32,1
+247165 rgtrzrnj.ngq,,rgtrzrnj.ngq,,247165.0,,,32,1
+121847 vwwmsd.drj,,vwwmsd.drj,,121847.0,,,32,1
+$ cd lsj,,,$ cd lsj,,,cd_check,32,1
+$ ls,,,$ ls,,list_check,,33,1
+dir hdttgfvj,hdttgfvj,,,,,,33,1
+$ cd hdttgfvj,,,$ cd hdttgfvj,,,cd_check,33,1
+$ ls,,,$ ls,,list_check,,34,1
+dir pwcvj,pwcvj,,,,,,34,1
+$ cd pwcvj,,,$ cd pwcvj,,,cd_check,34,1
+$ ls,,,$ ls,,list_check,,35,1
+96128 hszn.dvp,,hszn.dvp,,96128.0,,,35,1
+$ cd ..,,,$ cd ..,,,cd_check,35,1
+$ cd ..,,,$ cd ..,,,cd_check,35,1
+$ cd ..,,,$ cd ..,,,cd_check,35,1
+$ cd qrd,,,$ cd qrd,,,cd_check,35,1
+$ ls,,,$ ls,,list_check,,36,1
+dir btltml,btltml,,,,,,36,1
+dir rggvfrgb,rggvfrgb,,,,,,36,1
+$ cd btltml,,,$ cd btltml,,,cd_check,36,1
+$ ls,,,$ ls,,list_check,,37,1
+264710 btj.sdn,,btj.sdn,,264710.0,,,37,1
+148463 lvwcnzf,,lvwcnzf,,148463.0,,,37,1
+$ cd ..,,,$ cd ..,,,cd_check,37,1
+$ cd rggvfrgb,,,$ cd rggvfrgb,,,cd_check,37,1
+$ ls,,,$ ls,,list_check,,38,1
+166064 cllbb,,cllbb,,166064.0,,,38,1
+318209 qrd.tgr,,qrd.tgr,,318209.0,,,38,1
+$ cd ..,,,$ cd ..,,,cd_check,38,1
+$ cd ..,,,$ cd ..,,,cd_check,38,1
+$ cd ..,,,$ cd ..,,,cd_check,38,1
+$ cd fqh,,,$ cd fqh,,,cd_check,38,1
+$ ls,,,$ ls,,list_check,,39,1
+dir fvspj,fvspj,,,,,,39,1
+dir lpv,lpv,,,,,,39,1
+dir pdqss,pdqss,,,,,,39,1
+$ cd fvspj,,,$ cd fvspj,,,cd_check,39,1
+$ ls,,,$ ls,,list_check,,40,1
+dir fvspj,fvspj,,,,,,40,1
+$ cd fvspj,,,$ cd fvspj,,,cd_check,40,1
+$ ls,,,$ ls,,list_check,,41,1
+178819 pwcvj.wwt,,pwcvj.wwt,,178819.0,,,41,1
+$ cd ..,,,$ cd ..,,,cd_check,41,1
+$ cd ..,,,$ cd ..,,,cd_check,41,1
+$ cd lpv,,,$ cd lpv,,,cd_check,41,1
+$ ls,,,$ ls,,list_check,,42,1
+304819 btj.sdn,,btj.sdn,,304819.0,,,42,1
+$ cd ..,,,$ cd ..,,,cd_check,42,1
+$ cd pdqss,,,$ cd pdqss,,,cd_check,42,1
+$ ls,,,$ ls,,list_check,,43,1
+295812 qvrjfw,,qvrjfw,,295812.0,,,43,1
+$ cd ..,,,$ cd ..,,,cd_check,43,1
+$ cd ..,,,$ cd ..,,,cd_check,43,1
+$ cd mcszw,,,$ cd mcszw,,,cd_check,43,1
+$ ls,,,$ ls,,list_check,,44,1
+dir hdcpljg,hdcpljg,,,,,,44,1
+dir jpgrltj,jpgrltj,,,,,,44,1
+$ cd hdcpljg,,,$ cd hdcpljg,,,cd_check,44,1
+$ ls,,,$ ls,,list_check,,45,1
+dir cwrzb,cwrzb,,,,,,45,1
+$ cd cwrzb,,,$ cd cwrzb,,,cd_check,45,1
+$ ls,,,$ ls,,list_check,,46,1
+119913 cvdrqt.pmm,,cvdrqt.pmm,,119913.0,,,46,1
+$ cd ..,,,$ cd ..,,,cd_check,46,1
+$ cd ..,,,$ cd ..,,,cd_check,46,1
+$ cd jpgrltj,,,$ cd jpgrltj,,,cd_check,46,1
+$ ls,,,$ ls,,list_check,,47,1
+dir frqzwfbd,frqzwfbd,,,,,,47,1
+dir fvspj,fvspj,,,,,,47,1
+303128 gpv.vrp,,gpv.vrp,,303128.0,,,47,1
+175649 jdtzr,,jdtzr,,175649.0,,,47,1
+dir mhrnnhhz,mhrnnhhz,,,,,,47,1
+dir mmf,mmf,,,,,,47,1
+dir prpmrtc,prpmrtc,,,,,,47,1
+157295 zcwvc,,zcwvc,,157295.0,,,47,1
+$ cd frqzwfbd,,,$ cd frqzwfbd,,,cd_check,47,1
+$ ls,,,$ ls,,list_check,,48,1
+dir rbpwmbg,rbpwmbg,,,,,,48,1
+$ cd rbpwmbg,,,$ cd rbpwmbg,,,cd_check,48,1
+$ ls,,,$ ls,,list_check,,49,1
+272917 btj.sdn,,btj.sdn,,272917.0,,,49,1
+$ cd ..,,,$ cd ..,,,cd_check,49,1
+$ cd ..,,,$ cd ..,,,cd_check,49,1
+$ cd fvspj,,,$ cd fvspj,,,cd_check,49,1
+$ ls,,,$ ls,,list_check,,50,1
+dir bjlcfcfq,bjlcfcfq,,,,,,50,1
+$ cd bjlcfcfq,,,$ cd bjlcfcfq,,,cd_check,50,1
+$ ls,,,$ ls,,list_check,,51,1
+20843 sglqrf.dhq,,sglqrf.dhq,,20843.0,,,51,1
+$ cd ..,,,$ cd ..,,,cd_check,51,1
+$ cd ..,,,$ cd ..,,,cd_check,51,1
+$ cd mhrnnhhz,,,$ cd mhrnnhhz,,,cd_check,51,1
+$ ls,,,$ ls,,list_check,,52,1
+dir qrd,qrd,,,,,,52,1
+dir vwtrwbc,vwtrwbc,,,,,,52,1
+$ cd qrd,,,$ cd qrd,,,cd_check,52,1
+$ ls,,,$ ls,,list_check,,53,1
+288693 vvj,,vvj,,288693.0,,,53,1
+$ cd ..,,,$ cd ..,,,cd_check,53,1
+$ cd vwtrwbc,,,$ cd vwtrwbc,,,cd_check,53,1
+$ ls,,,$ ls,,list_check,,54,1
+220203 dmp,,dmp,,220203.0,,,54,1
+$ cd ..,,,$ cd ..,,,cd_check,54,1
+$ cd ..,,,$ cd ..,,,cd_check,54,1
+$ cd mmf,,,$ cd mmf,,,cd_check,54,1
+$ ls,,,$ ls,,list_check,,55,1
+134321 bjlcfcfq.cct,,bjlcfcfq.cct,,134321.0,,,55,1
+dir dvtbrnp,dvtbrnp,,,,,,55,1
+dir qrd,qrd,,,,,,55,1
+dir rfnnt,rfnnt,,,,,,55,1
+248903 scfrnp.vtv,,scfrnp.vtv,,248903.0,,,55,1
+dir sgrnztrg,sgrnztrg,,,,,,55,1
+104979 tbnlqdjd.pvh,,tbnlqdjd.pvh,,104979.0,,,55,1
+$ cd dvtbrnp,,,$ cd dvtbrnp,,,cd_check,55,1
+$ ls,,,$ ls,,list_check,,56,1
+108438 cllbb,,cllbb,,108438.0,,,56,1
+247115 dcnsvp.nnv,,dcnsvp.nnv,,247115.0,,,56,1
+$ cd ..,,,$ cd ..,,,cd_check,56,1
+$ cd qrd,,,$ cd qrd,,,cd_check,56,1
+$ ls,,,$ ls,,list_check,,57,1
+13599 lvfpgjpm.bsf,,lvfpgjpm.bsf,,13599.0,,,57,1
+162188 qrd.rgc,,qrd.rgc,,162188.0,,,57,1
+144915 wrl,,wrl,,144915.0,,,57,1
+99150 znn.bwr,,znn.bwr,,99150.0,,,57,1
+$ cd ..,,,$ cd ..,,,cd_check,57,1
+$ cd rfnnt,,,$ cd rfnnt,,,cd_check,57,1
+$ ls,,,$ ls,,list_check,,58,1
+267155 pwcvj.mff,,pwcvj.mff,,267155.0,,,58,1
+$ cd ..,,,$ cd ..,,,cd_check,58,1
+$ cd sgrnztrg,,,$ cd sgrnztrg,,,cd_check,58,1
+$ ls,,,$ ls,,list_check,,59,1
+96406 bbsd.mtl,,bbsd.mtl,,96406.0,,,59,1
+dir fqzt,fqzt,,,,,,59,1
+286557 fvspj.hgs,,fvspj.hgs,,286557.0,,,59,1
+dir fwnfzlsh,fwnfzlsh,,,,,,59,1
+2681 lpv,,lpv,,2681.0,,,59,1
+dir nhdlzz,nhdlzz,,,,,,59,1
+307130 pqdf,,pqdf,,307130.0,,,59,1
+26564 qjhqq.wpf,,qjhqq.wpf,,26564.0,,,59,1
+$ cd fqzt,,,$ cd fqzt,,,cd_check,59,1
+$ ls,,,$ ls,,list_check,,60,1
+133312 bbsd.mtl,,bbsd.mtl,,133312.0,,,60,1
+dir jrvwtcm,jrvwtcm,,,,,,60,1
+dir lvwvhh,lvwvhh,,,,,,60,1
+dir qdmwttjf,qdmwttjf,,,,,,60,1
+$ cd jrvwtcm,,,$ cd jrvwtcm,,,cd_check,60,1
+$ ls,,,$ ls,,list_check,,61,1
+dir lpv,lpv,,,,,,61,1
+dir qrd,qrd,,,,,,61,1
+$ cd lpv,,,$ cd lpv,,,cd_check,61,1
+$ ls,,,$ ls,,list_check,,62,1
+167512 fvspj.ncn,,fvspj.ncn,,167512.0,,,62,1
+152101 hjqnflqq,,hjqnflqq,,152101.0,,,62,1
+dir jnzjz,jnzjz,,,,,,62,1
+150334 lmdtnsmr,,lmdtnsmr,,150334.0,,,62,1
+160486 pwcvj.wrq,,pwcvj.wrq,,160486.0,,,62,1
+$ cd jnzjz,,,$ cd jnzjz,,,cd_check,62,1
+$ ls,,,$ ls,,list_check,,63,1
+159850 vqhljfwn.gvn,,vqhljfwn.gvn,,159850.0,,,63,1
+$ cd ..,,,$ cd ..,,,cd_check,63,1
+$ cd ..,,,$ cd ..,,,cd_check,63,1
+$ cd qrd,,,$ cd qrd,,,cd_check,63,1
+$ ls,,,$ ls,,list_check,,64,1
+159400 cllbb,,cllbb,,159400.0,,,64,1
+76692 jmv.pcb,,jmv.pcb,,76692.0,,,64,1
+35340 trrllrzh,,trrllrzh,,35340.0,,,64,1
+$ cd ..,,,$ cd ..,,,cd_check,64,1
+$ cd ..,,,$ cd ..,,,cd_check,64,1
+$ cd lvwvhh,,,$ cd lvwvhh,,,cd_check,64,1
+$ ls,,,$ ls,,list_check,,65,1
+15938 cllbb,,cllbb,,15938.0,,,65,1
+$ cd ..,,,$ cd ..,,,cd_check,65,1
+$ cd qdmwttjf,,,$ cd qdmwttjf,,,cd_check,65,1
+$ ls,,,$ ls,,list_check,,66,1
+321474 bbsd.mtl,,bbsd.mtl,,321474.0,,,66,1
+$ cd ..,,,$ cd ..,,,cd_check,66,1
+$ cd ..,,,$ cd ..,,,cd_check,66,1
+$ cd fwnfzlsh,,,$ cd fwnfzlsh,,,cd_check,66,1
+$ ls,,,$ ls,,list_check,,67,1
+293768 rdvjhjjr.bbt,,rdvjhjjr.bbt,,293768.0,,,67,1
+231923 sjsst,,sjsst,,231923.0,,,67,1
+85714 tftdtjn.gmj,,tftdtjn.gmj,,85714.0,,,67,1
+$ cd ..,,,$ cd ..,,,cd_check,67,1
+$ cd nhdlzz,,,$ cd nhdlzz,,,cd_check,67,1
+$ ls,,,$ ls,,list_check,,68,1
+32685 bbsd.mtl,,bbsd.mtl,,32685.0,,,68,1
+144279 bjlcfcfq,,bjlcfcfq,,144279.0,,,68,1
+87900 jvsrrdtl.cfg,,jvsrrdtl.cfg,,87900.0,,,68,1
+92750 lpbl,,lpbl,,92750.0,,,68,1
+$ cd ..,,,$ cd ..,,,cd_check,68,1
+$ cd ..,,,$ cd ..,,,cd_check,68,1
+$ cd ..,,,$ cd ..,,,cd_check,68,1
+$ cd prpmrtc,,,$ cd prpmrtc,,,cd_check,68,1
+$ ls,,,$ ls,,list_check,,69,1
+246802 cllbb,,cllbb,,246802.0,,,69,1
+168865 fvspj.qpw,,fvspj.qpw,,168865.0,,,69,1
+dir hblbht,hblbht,,,,,,69,1
+82290 lmdtnsmr,,lmdtnsmr,,82290.0,,,69,1
+$ cd hblbht,,,$ cd hblbht,,,cd_check,69,1
+$ ls,,,$ ls,,list_check,,70,1
+207362 bjlcfcfq.zmn,,bjlcfcfq.zmn,,207362.0,,,70,1
+$ cd ..,,,$ cd ..,,,cd_check,70,1
+$ cd ..,,,$ cd ..,,,cd_check,70,1
+$ cd ..,,,$ cd ..,,,cd_check,70,1
+$ cd ..,,,$ cd ..,,,cd_check,70,1
+$ cd tgrplmn,,,$ cd tgrplmn,,,cd_check,70,1
+$ ls,,,$ ls,,list_check,,71,1
+dir lpv,lpv,,,,,,71,1
+dir mcl,mcl,,,,,,71,1
+284751 mnsfpzg.llt,,mnsfpzg.llt,,284751.0,,,71,1
+dir qswjwpb,qswjwpb,,,,,,71,1
+59462 swzffqm.rgh,,swzffqm.rgh,,59462.0,,,71,1
+dir tlcsgrsm,tlcsgrsm,,,,,,71,1
+$ cd lpv,,,$ cd lpv,,,cd_check,71,1
+$ ls,,,$ ls,,list_check,,72,1
+dir bjlcfcfq,bjlcfcfq,,,,,,72,1
+dir csmssc,csmssc,,,,,,72,1
+dir dpmr,dpmr,,,,,,72,1
+dir grt,grt,,,,,,72,1
+56546 hbrph,,hbrph,,56546.0,,,72,1
+133153 nhpqln,,nhpqln,,133153.0,,,72,1
+311003 pwcvj,,pwcvj,,311003.0,,,72,1
+196923 pwcvj.vzf,,pwcvj.vzf,,196923.0,,,72,1
+dir qjm,qjm,,,,,,72,1
+dir vjbrczs,vjbrczs,,,,,,72,1
+$ cd bjlcfcfq,,,$ cd bjlcfcfq,,,cd_check,72,1
+$ ls,,,$ ls,,list_check,,73,1
+dir dcl,dcl,,,,,,73,1
+dir fvspj,fvspj,,,,,,73,1
+dir jfd,jfd,,,,,,73,1
+94415 nvqznb.fps,,nvqznb.fps,,94415.0,,,73,1
+189235 rdvjhjjr.bbt,,rdvjhjjr.bbt,,189235.0,,,73,1
+dir sjmv,sjmv,,,,,,73,1
+dir swzpgbv,swzpgbv,,,,,,73,1
+191980 trlprb,,trlprb,,191980.0,,,73,1
+19551 wjzrjgp.wzt,,wjzrjgp.wzt,,19551.0,,,73,1
+$ cd dcl,,,$ cd dcl,,,cd_check,73,1
+$ ls,,,$ ls,,list_check,,74,1
+dir fvspj,fvspj,,,,,,74,1
+dir hfjtj,hfjtj,,,,,,74,1
+$ cd fvspj,,,$ cd fvspj,,,cd_check,74,1
+$ ls,,,$ ls,,list_check,,75,1
+23433 bwwc.gfq,,bwwc.gfq,,23433.0,,,75,1
+305839 ldgjls.mmv,,,,305839.0,,,75,1
+dir mqbpjgpp,mqbpjgpp,,,,,,75,1
+289110 qtwvsjj,,qtwvsjj,,289110.0,,,75,1
+202233 sbzmlctz,,sbzmlctz,,202233.0,,,75,1
+152311 wblvh.lmh,,wblvh.lmh,,152311.0,,,75,1
+$ cd mqbpjgpp,,,$ cd mqbpjgpp,,,cd_check,75,1
+$ ls,,,$ ls,,list_check,,76,1
+236302 bjlcfcfq.qfd,,bjlcfcfq.qfd,,236302.0,,,76,1
+58279 qrd,,qrd,,58279.0,,,76,1
+$ cd ..,,,$ cd ..,,,cd_check,76,1
+$ cd ..,,,$ cd ..,,,cd_check,76,1
+$ cd hfjtj,,,$ cd hfjtj,,,cd_check,76,1
+$ ls,,,$ ls,,list_check,,77,1
+314282 fqv,,fqv,,314282.0,,,77,1
+28353 gfzcbpr.npj,,gfzcbpr.npj,,28353.0,,,77,1
+191265 pvdzvvz.ndn,,pvdzvvz.ndn,,191265.0,,,77,1
+324328 qrd.qdj,,qrd.qdj,,324328.0,,,77,1
+$ cd ..,,,$ cd ..,,,cd_check,77,1
+$ cd ..,,,$ cd ..,,,cd_check,77,1
+$ cd fvspj,,,$ cd fvspj,,,cd_check,77,1
+$ ls,,,$ ls,,list_check,,78,1
+dir brcr,brcr,,,,,,78,1
+dir jjhsmhq,jjhsmhq,,,,,,78,1
+238436 qrd.gqd,,qrd.gqd,,238436.0,,,78,1
+dir vmdsrmpw,vmdsrmpw,,,,,,78,1
+$ cd brcr,,,$ cd brcr,,,cd_check,78,1
+$ ls,,,$ ls,,list_check,,79,1
+dir bjlcfcfq,bjlcfcfq,,,,,,79,1
+dir grlppjws,grlppjws,,,,,,79,1
+dir jflb,jflb,,,,,,79,1
+dir tjw,tjw,,,,,,79,1
+dir wdnfspnt,wdnfspnt,,,,,,79,1
+$ cd bjlcfcfq,,,$ cd bjlcfcfq,,,cd_check,79,1
+$ ls,,,$ ls,,list_check,,80,1
+8182 wvv.pcd,,,,8182.0,,,80,1
+$ cd ..,,,$ cd ..,,,cd_check,80,1
+$ cd grlppjws,,,$ cd grlppjws,,,cd_check,80,1
+$ ls,,,$ ls,,list_check,,81,1
+dir pbjllgpv,pbjllgpv,,,,,,81,1
+99788 qrd,,qrd,,99788.0,,,81,1
+dir vbfqvcb,vbfqvcb,,,,,,81,1
+$ cd pbjllgpv,,,$ cd pbjllgpv,,,cd_check,81,1
+$ ls,,,$ ls,,list_check,,82,1
+296139 bwdbhm,,bwdbhm,,296139.0,,,82,1
+$ cd ..,,,$ cd ..,,,cd_check,82,1
+$ cd vbfqvcb,,,$ cd vbfqvcb,,,cd_check,82,1
+$ ls,,,$ ls,,list_check,,83,1
+23885 cfnqsdrq,,cfnqsdrq,,23885.0,,,83,1
+$ cd ..,,,$ cd ..,,,cd_check,83,1
+$ cd ..,,,$ cd ..,,,cd_check,83,1
+$ cd jflb,,,$ cd jflb,,,cd_check,83,1
+$ ls,,,$ ls,,list_check,,84,1
+242366 bbsd.mtl,,bbsd.mtl,,242366.0,,,84,1
+221424 dmdrj,,dmdrj,,221424.0,,,84,1
+$ cd ..,,,$ cd ..,,,cd_check,84,1
+$ cd tjw,,,$ cd tjw,,,cd_check,84,1
+$ ls,,,$ ls,,list_check,,85,1
+275534 btj.sdn,,btj.sdn,,275534.0,,,85,1
+$ cd ..,,,$ cd ..,,,cd_check,85,1
+$ cd wdnfspnt,,,$ cd wdnfspnt,,,cd_check,85,1
+$ ls,,,$ ls,,list_check,,86,1
+234653 fvspj.mhh,,fvspj.mhh,,234653.0,,,86,1
+185475 gdmvncmd.glf,,gdmvncmd.glf,,185475.0,,,86,1
+241269 llpmndb.smv,,llpmndb.smv,,241269.0,,,86,1
+$ cd ..,,,$ cd ..,,,cd_check,86,1
+$ cd ..,,,$ cd ..,,,cd_check,86,1
+$ cd jjhsmhq,,,$ cd jjhsmhq,,,cd_check,86,1
+$ ls,,,$ ls,,list_check,,87,1
+dir bjlcfcfq,bjlcfcfq,,,,,,87,1
+dir cngcw,cngcw,,,,,,87,1
+dir dgsh,dgsh,,,,,,87,1
+dir fvspj,fvspj,,,,,,87,1
+75186 gfpg,,gfpg,,75186.0,,,87,1
+222104 rdvjhjjr.bbt,,rdvjhjjr.bbt,,222104.0,,,87,1
+dir zhh,zhh,,,,,,87,1
+$ cd bjlcfcfq,,,$ cd bjlcfcfq,,,cd_check,87,1
+$ ls,,,$ ls,,list_check,,88,1
+322155 cmfvqn.bnv,,cmfvqn.bnv,,322155.0,,,88,1
+$ cd ..,,,$ cd ..,,,cd_check,88,1
+$ cd cngcw,,,$ cd cngcw,,,cd_check,88,1
+$ ls,,,$ ls,,list_check,,89,1
+225265 bwblfgg.tbh,,bwblfgg.tbh,,225265.0,,,89,1
+159815 rdvjhjjr.bbt,,rdvjhjjr.bbt,,159815.0,,,89,1
+$ cd ..,,,$ cd ..,,,cd_check,89,1
+$ cd dgsh,,,$ cd dgsh,,,cd_check,89,1
+$ ls,,,$ ls,,list_check,,90,1
+5999 qhb,,qhb,,5999.0,,,90,1
+$ cd ..,,,$ cd ..,,,cd_check,90,1
+$ cd fvspj,,,$ cd fvspj,,,cd_check,90,1
+$ ls,,,$ ls,,list_check,,91,1
+dir jhvhb,jhvhb,,,,,,91,1
+$ cd jhvhb,,,$ cd jhvhb,,,cd_check,91,1
+$ ls,,,$ ls,,list_check,,92,1
+284846 bbsd.mtl,,bbsd.mtl,,284846.0,,,92,1
+268772 btj.sdn,,btj.sdn,,268772.0,,,92,1
+63756 mjqm.wlj,,mjqm.wlj,,63756.0,,,92,1
+$ cd ..,,,$ cd ..,,,cd_check,92,1
+$ cd ..,,,$ cd ..,,,cd_check,92,1
+$ cd zhh,,,$ cd zhh,,,cd_check,92,1
+$ ls,,,$ ls,,list_check,,93,1
+13809 pbfbglt.vjl,,pbfbglt.vjl,,13809.0,,,93,1
+$ cd ..,,,$ cd ..,,,cd_check,93,1
+$ cd ..,,,$ cd ..,,,cd_check,93,1
+$ cd vmdsrmpw,,,$ cd vmdsrmpw,,,cd_check,93,1
+$ ls,,,$ ls,,list_check,,94,1
+dir fznqqt,fznqqt,,,,,,94,1
+dir hpmz,hpmz,,,,,,94,1
+249340 pmmvztbv.rwd,,pmmvztbv.rwd,,249340.0,,,94,1
+118626 rljmwl.lfl,,rljmwl.lfl,,118626.0,,,94,1
+$ cd fznqqt,,,$ cd fznqqt,,,cd_check,94,1
+$ ls,,,$ ls,,list_check,,95,1
+260619 bjlcfcfq.lhh,,bjlcfcfq.lhh,,260619.0,,,95,1
+165606 cllbb,,cllbb,,165606.0,,,95,1
+14095 tgnwqlp.npr,,tgnwqlp.npr,,14095.0,,,95,1
+$ cd ..,,,$ cd ..,,,cd_check,95,1
+$ cd hpmz,,,$ cd hpmz,,,cd_check,95,1
+$ ls,,,$ ls,,list_check,,96,1
+269899 qhmsm,,qhmsm,,269899.0,,,96,1
+$ cd ..,,,$ cd ..,,,cd_check,96,1
+$ cd ..,,,$ cd ..,,,cd_check,96,1
+$ cd ..,,,$ cd ..,,,cd_check,96,1
+$ cd jfd,,,$ cd jfd,,,cd_check,96,1
+$ ls,,,$ ls,,list_check,,97,1
+255103 lmdtnsmr,,lmdtnsmr,,255103.0,,,97,1
+$ cd ..,,,$ cd ..,,,cd_check,97,1
+$ cd sjmv,,,$ cd sjmv,,,cd_check,97,1
+$ ls,,,$ ls,,list_check,,98,1
+231148 bbsd.mtl,,bbsd.mtl,,231148.0,,,98,1
+dir ctlcvb,ctlcvb,,,,,,98,1
+dir lpv,lpv,,,,,,98,1
+63332 nztdclbs.vfq,,nztdclbs.vfq,,63332.0,,,98,1
+52185 rzlc,,rzlc,,52185.0,,,98,1
+$ cd ctlcvb,,,$ cd ctlcvb,,,cd_check,98,1
+$ ls,,,$ ls,,list_check,,99,1
+181515 bjlcfcfq.bvz,,bjlcfcfq.bvz,,181515.0,,,99,1
+$ cd ..,,,$ cd ..,,,cd_check,99,1
+$ cd lpv,,,$ cd lpv,,,cd_check,99,1
+$ ls,,,$ ls,,list_check,,100,1
+dir cnbzsz,cnbzsz,,,,,,100,1
+$ cd cnbzsz,,,$ cd cnbzsz,,,cd_check,100,1
+$ ls,,,$ ls,,list_check,,101,1
+67110 bjlcfcfq,,bjlcfcfq,,67110.0,,,101,1
+$ cd ..,,,$ cd ..,,,cd_check,101,1
+$ cd ..,,,$ cd ..,,,cd_check,101,1
+$ cd ..,,,$ cd ..,,,cd_check,101,1
+$ cd swzpgbv,,,$ cd swzpgbv,,,cd_check,101,1
+$ ls,,,$ ls,,list_check,,102,1
+dir qdswczwf,qdswczwf,,,,,,102,1
+$ cd qdswczwf,,,$ cd qdswczwf,,,cd_check,102,1
+$ ls,,,$ ls,,list_check,,103,1
+280757 pbtmjh.rww,,pbtmjh.rww,,280757.0,,,103,1
+dir rvnwwctv,rvnwwctv,,,,,,103,1
+79261 tczj,,tczj,,79261.0,,,103,1
+dir vppgbl,vppgbl,,,,,,103,1
+125973 wbs.tvl,,wbs.tvl,,125973.0,,,103,1
+$ cd rvnwwctv,,,$ cd rvnwwctv,,,cd_check,103,1
+$ ls,,,$ ls,,list_check,,104,1
+dir lnww,lnww,,,,,,104,1
+$ cd lnww,,,$ cd lnww,,,cd_check,104,1
+$ ls,,,$ ls,,list_check,,105,1
+86468 qrd,,qrd,,86468.0,,,105,1
+$ cd ..,,,$ cd ..,,,cd_check,105,1
+$ cd ..,,,$ cd ..,,,cd_check,105,1
+$ cd vppgbl,,,$ cd vppgbl,,,cd_check,105,1
+$ ls,,,$ ls,,list_check,,106,1
+167779 rdvjhjjr.bbt,,rdvjhjjr.bbt,,167779.0,,,106,1
+$ cd ..,,,$ cd ..,,,cd_check,106,1
+$ cd ..,,,$ cd ..,,,cd_check,106,1
+$ cd ..,,,$ cd ..,,,cd_check,106,1
+$ cd ..,,,$ cd ..,,,cd_check,106,1
+$ cd csmssc,,,$ cd csmssc,,,cd_check,106,1
+$ ls,,,$ ls,,list_check,,107,1
+227296 vdpcbwr,,vdpcbwr,,227296.0,,,107,1
+$ cd ..,,,$ cd ..,,,cd_check,107,1
+$ cd dpmr,,,$ cd dpmr,,,cd_check,107,1
+$ ls,,,$ ls,,list_check,,108,1
+dir bjlcfcfq,bjlcfcfq,,,,,,108,1
+dir bqh,bqh,,,,,,108,1
+16258 dgqftmss.njh,,dgqftmss.njh,,16258.0,,,108,1
+34709 fsdfwtm.vrq,,fsdfwtm.vrq,,34709.0,,,108,1
+145444 lmdtnsmr,,lmdtnsmr,,145444.0,,,108,1
+241098 qrd.psl,,qrd.psl,,241098.0,,,108,1
+dir tlmdc,tlmdc,,,,,,108,1
+$ cd bjlcfcfq,,,$ cd bjlcfcfq,,,cd_check,108,1
+$ ls,,,$ ls,,list_check,,109,1
+11283 ngcbs.mtd,,ngcbs.mtd,,11283.0,,,109,1
+$ cd ..,,,$ cd ..,,,cd_check,109,1
+$ cd bqh,,,$ cd bqh,,,cd_check,109,1
+$ ls,,,$ ls,,list_check,,110,1
+dir hldwv,hldwv,,,,,,110,1
+$ cd hldwv,,,$ cd hldwv,,,cd_check,110,1
+$ ls,,,$ ls,,list_check,,111,1
+dir lhtjslpz,lhtjslpz,,,,,,111,1
+199950 lwzcvjvp.qjj,,lwzcvjvp.qjj,,199950.0,,,111,1
+102516 qhdttjp.lcb,,qhdttjp.lcb,,102516.0,,,111,1
+dir qlbsp,qlbsp,,,,,,111,1
+$ cd lhtjslpz,,,$ cd lhtjslpz,,,cd_check,111,1
+$ ls,,,$ ls,,list_check,,112,1
+114219 bbsd.mtl,,bbsd.mtl,,114219.0,,,112,1
+dir fvspj,fvspj,,,,,,112,1
+$ cd fvspj,,,$ cd fvspj,,,cd_check,112,1
+$ ls,,,$ ls,,list_check,,113,1
+253208 cllbb,,cllbb,,253208.0,,,113,1
+dir tjzcwv,tjzcwv,,,,,,113,1
+dir tzdp,tzdp,,,,,,113,1
+dir vpwgc,vpwgc,,,,,,113,1
+$ cd tjzcwv,,,$ cd tjzcwv,,,cd_check,113,1
+$ ls,,,$ ls,,list_check,,114,1
+85489 rdvjhjjr.bbt,,rdvjhjjr.bbt,,85489.0,,,114,1
+dir shsfppt,shsfppt,,,,,,114,1
+$ cd shsfppt,,,$ cd shsfppt,,,cd_check,114,1
+$ ls,,,$ ls,,list_check,,115,1
+206314 fhgmvp.fmv,,fhgmvp.fmv,,206314.0,,,115,1
+$ cd ..,,,$ cd ..,,,cd_check,115,1
+$ cd ..,,,$ cd ..,,,cd_check,115,1
+$ cd tzdp,,,$ cd tzdp,,,cd_check,115,1
+$ ls,,,$ ls,,list_check,,116,1
+319129 zvwhbg.qbf,,zvwhbg.qbf,,319129.0,,,116,1
+$ cd ..,,,$ cd ..,,,cd_check,116,1
+$ cd vpwgc,,,$ cd vpwgc,,,cd_check,116,1
+$ ls,,,$ ls,,list_check,,117,1
+81012 pclb.wdr,,pclb.wdr,,81012.0,,,117,1
+$ cd ..,,,$ cd ..,,,cd_check,117,1
+$ cd ..,,,$ cd ..,,,cd_check,117,1
+$ cd ..,,,$ cd ..,,,cd_check,117,1
+$ cd qlbsp,,,$ cd qlbsp,,,cd_check,117,1
+$ ls,,,$ ls,,list_check,,118,1
+149628 fctp.hzz,,fctp.hzz,,149628.0,,,118,1
+$ cd ..,,,$ cd ..,,,cd_check,118,1
+$ cd ..,,,$ cd ..,,,cd_check,118,1
+$ cd ..,,,$ cd ..,,,cd_check,118,1
+$ cd tlmdc,,,$ cd tlmdc,,,cd_check,118,1
+$ ls,,,$ ls,,list_check,,119,1
+54390 dbrt.bns,,dbrt.bns,,54390.0,,,119,1
+$ cd ..,,,$ cd ..,,,cd_check,119,1
+$ cd ..,,,$ cd ..,,,cd_check,119,1
+$ cd grt,,,$ cd grt,,,cd_check,119,1
+$ ls,,,$ ls,,list_check,,120,1
+166012 fdh,,fdh,,166012.0,,,120,1
+$ cd ..,,,$ cd ..,,,cd_check,120,1
+$ cd qjm,,,$ cd qjm,,,cd_check,120,1
+$ ls,,,$ ls,,list_check,,121,1
+28225 rdvjhjjr.bbt,,rdvjhjjr.bbt,,28225.0,,,121,1
+$ cd ..,,,$ cd ..,,,cd_check,121,1
+$ cd vjbrczs,,,$ cd vjbrczs,,,cd_check,121,1
+$ ls,,,$ ls,,list_check,,122,1
+198931 cllbb,,cllbb,,198931.0,,,122,1
+$ cd ..,,,$ cd ..,,,cd_check,122,1
+$ cd ..,,,$ cd ..,,,cd_check,122,1
+$ cd mcl,,,$ cd mcl,,,cd_check,122,1
+$ ls,,,$ ls,,list_check,,123,1
+dir qrd,qrd,,,,,,123,1
+$ cd qrd,,,$ cd qrd,,,cd_check,123,1
+$ ls,,,$ ls,,list_check,,124,1
+33750 ddhhs.vqq,,ddhhs.vqq,,33750.0,,,124,1
+$ cd ..,,,$ cd ..,,,cd_check,124,1
+$ cd ..,,,$ cd ..,,,cd_check,124,1
+$ cd qswjwpb,,,$ cd qswjwpb,,,cd_check,124,1
+$ ls,,,$ ls,,list_check,,125,1
+35549 fmfjcfj,,fmfjcfj,,35549.0,,,125,1
+dir hjphpcbg,hjphpcbg,,,,,,125,1
+dir lpv,lpv,,,,,,125,1
+267871 ztzz,,ztzz,,267871.0,,,125,1
+$ cd hjphpcbg,,,$ cd hjphpcbg,,,cd_check,125,1
+$ ls,,,$ ls,,list_check,,126,1
+245718 rsprrb,,rsprrb,,245718.0,,,126,1
+$ cd ..,,,$ cd ..,,,cd_check,126,1
+$ cd lpv,,,$ cd lpv,,,cd_check,126,1
+$ ls,,,$ ls,,list_check,,127,1
+37017 pwcvj,,pwcvj,,37017.0,,,127,1
+$ cd ..,,,$ cd ..,,,cd_check,127,1
+$ cd ..,,,$ cd ..,,,cd_check,127,1
+$ cd tlcsgrsm,,,$ cd tlcsgrsm,,,cd_check,127,1
+$ ls,,,$ ls,,list_check,,128,1
+300513 cnmjs.qnn,,cnmjs.qnn,,300513.0,,,128,1
+304203 jhcmjmnl.mzn,,jhcmjmnl.mzn,,304203.0,,,128,1
+$ cd ..,,,$ cd ..,,,cd_check,128,1
+$ cd ..,,,$ cd ..,,,cd_check,128,1
+$ cd tnhs,,,$ cd tnhs,,,cd_check,128,1
+$ ls,,,$ ls,,list_check,,129,1
+dir gszv,gszv,,,,,,129,1
+dir lgh,lgh,,,,,,129,1
+dir mtbpfwqp,mtbpfwqp,,,,,,129,1
+dir zhgqm,zhgqm,,,,,,129,1
+$ cd gszv,,,$ cd gszv,,,cd_check,129,1
+$ ls,,,$ ls,,list_check,,130,1
+83369 bbsd.mtl,,bbsd.mtl,,83369.0,,,130,1
+70913 btj.sdn,,btj.sdn,,70913.0,,,130,1
+dir dmfbw,dmfbw,,,,,,130,1
+dir dnhpgb,dnhpgb,,,,,,130,1
+dir fvspj,fvspj,,,,,,130,1
+97494 lmdtnsmr,,lmdtnsmr,,97494.0,,,130,1
+dir lpv,lpv,,,,,,130,1
+104639 qrd.cpq,,qrd.cpq,,104639.0,,,130,1
+$ cd dmfbw,,,$ cd dmfbw,,,cd_check,130,1
+$ ls,,,$ ls,,list_check,,131,1
+252522 jjw,,jjw,,252522.0,,,131,1
+dir nqh,nqh,,,,,,131,1
+dir swlq,swlq,,,,,,131,1
+116306 tgjhnwsq.fvb,,tgjhnwsq.fvb,,116306.0,,,131,1
+$ cd nqh,,,$ cd nqh,,,cd_check,131,1
+$ ls,,,$ ls,,list_check,,132,1
+116128 vpmc.tmw,,vpmc.tmw,,116128.0,,,132,1
+$ cd ..,,,$ cd ..,,,cd_check,132,1
+$ cd swlq,,,$ cd swlq,,,cd_check,132,1
+$ ls,,,$ ls,,list_check,,133,1
+dir bslwvw,bslwvw,,,,,,133,1
+dir gqq,gqq,,,,,,133,1
+162795 lpv.fdh,,lpv.fdh,,162795.0,,,133,1
+$ cd bslwvw,,,$ cd bslwvw,,,cd_check,133,1
+$ ls,,,$ ls,,list_check,,134,1
+67711 bbsd.mtl,,bbsd.mtl,,67711.0,,,134,1
+212000 ptfw.llc,,ptfw.llc,,212000.0,,,134,1
+285956 qrd.qsp,,qrd.qsp,,285956.0,,,134,1
+$ cd ..,,,$ cd ..,,,cd_check,134,1
+$ cd gqq,,,$ cd gqq,,,cd_check,134,1
+$ ls,,,$ ls,,list_check,,135,1
+dir blgnqj,blgnqj,,,,,,135,1
+$ cd blgnqj,,,$ cd blgnqj,,,cd_check,135,1
+$ ls,,,$ ls,,list_check,,136,1
+88943 nphgztg.bfg,,nphgztg.bfg,,88943.0,,,136,1
+$ cd ..,,,$ cd ..,,,cd_check,136,1
+$ cd ..,,,$ cd ..,,,cd_check,136,1
+$ cd ..,,,$ cd ..,,,cd_check,136,1
+$ cd ..,,,$ cd ..,,,cd_check,136,1
+$ cd dnhpgb,,,$ cd dnhpgb,,,cd_check,136,1
+$ ls,,,$ ls,,list_check,,137,1
+291670 bbsd.mtl,,bbsd.mtl,,291670.0,,,137,1
+106989 cllbb,,cllbb,,106989.0,,,137,1
+279416 plh.bcb,,plh.bcb,,279416.0,,,137,1
+$ cd ..,,,$ cd ..,,,cd_check,137,1
+$ cd fvspj,,,$ cd fvspj,,,cd_check,137,1
+$ ls,,,$ ls,,list_check,,138,1
+dir bcw,bcw,,,,,,138,1
+102374 fvspj,,fvspj,,102374.0,,,138,1
+230649 lmdtnsmr,,lmdtnsmr,,230649.0,,,138,1
+dir lpv,lpv,,,,,,138,1
+272047 zdfcv.jhm,,zdfcv.jhm,,272047.0,,,138,1
+$ cd bcw,,,$ cd bcw,,,cd_check,138,1
+$ ls,,,$ ls,,list_check,,139,1
+235582 ptlfrl.sjv,,ptlfrl.sjv,,235582.0,,,139,1
+$ cd ..,,,$ cd ..,,,cd_check,139,1
+$ cd lpv,,,$ cd lpv,,,cd_check,139,1
+$ ls,,,$ ls,,list_check,,140,1
+58549 pwcvj.ctf,,pwcvj.ctf,,58549.0,,,140,1
+$ cd ..,,,$ cd ..,,,cd_check,140,1
+$ cd ..,,,$ cd ..,,,cd_check,140,1
+$ cd lpv,,,$ cd lpv,,,cd_check,140,1
+$ ls,,,$ ls,,list_check,,141,1
+77416 cllbb,,cllbb,,77416.0,,,141,1
+dir lgzmvj,lgzmvj,,,,,,141,1
+$ cd lgzmvj,,,$ cd lgzmvj,,,cd_check,141,1
+$ ls,,,$ ls,,list_check,,142,1
+81760 fsmjc.grz,,fsmjc.grz,,81760.0,,,142,1
+318477 nccf,,nccf,,318477.0,,,142,1
+27650 pwcvj.zbr,,pwcvj.zbr,,27650.0,,,142,1
+270952 qrd.fhf,,qrd.fhf,,270952.0,,,142,1
+$ cd ..,,,$ cd ..,,,cd_check,142,1
+$ cd ..,,,$ cd ..,,,cd_check,142,1
+$ cd ..,,,$ cd ..,,,cd_check,142,1
+$ cd lgh,,,$ cd lgh,,,cd_check,142,1
+$ ls,,,$ ls,,list_check,,143,1
+87112 hvtzr,,hvtzr,,87112.0,,,143,1
+208042 jdqm,,jdqm,,208042.0,,,143,1
+63985 mwvszg.dlp,,mwvszg.dlp,,63985.0,,,143,1
+$ cd ..,,,$ cd ..,,,cd_check,143,1
+$ cd mtbpfwqp,,,$ cd mtbpfwqp,,,cd_check,143,1
+$ ls,,,$ ls,,list_check,,144,1
+307186 bzg.vzd,,bzg.vzd,,307186.0,,,144,1
+222517 lmdtnsmr,,lmdtnsmr,,222517.0,,,144,1
+145642 lqnd,,lqnd,,145642.0,,,144,1
+dir zpnwp,zpnwp,,,,,,144,1
+$ cd zpnwp,,,$ cd zpnwp,,,cd_check,144,1
+$ ls,,,$ ls,,list_check,,145,1
+88669 jmqlmppg.dzv,,jmqlmppg.dzv,,88669.0,,,145,1
+$ cd ..,,,$ cd ..,,,cd_check,145,1
+$ cd ..,,,$ cd ..,,,cd_check,145,1
+$ cd zhgqm,,,$ cd zhgqm,,,cd_check,145,1
+$ ls,,,$ ls,,list_check,,146,1
+dir pwcvj,pwcvj,,,,,,146,1
+222559 rzjhcp.rmw,,rzjhcp.rmw,,222559.0,,,146,1
+$ cd pwcvj,,,$ cd pwcvj,,,cd_check,146,1
+$ ls,,,$ ls,,list_check,,147,1
+48736 cnpfdfcw,,cnpfdfcw,,48736.0,,,147,1
+dir csdfdgw,csdfdgw,,,,,,147,1
+dir fvspj,fvspj,,,,,,147,1
+312206 jvpzg.gdl,,jvpzg.gdl,,312206.0,,,147,1
+163843 mfbszb.gfw,,mfbszb.gfw,,163843.0,,,147,1
+161510 rbfgptrl,,rbfgptrl,,161510.0,,,147,1
+$ cd csdfdgw,,,$ cd csdfdgw,,,cd_check,147,1
+$ ls,,,$ ls,,list_check,,148,1
+100340 lmdtnsmr,,lmdtnsmr,,100340.0,,,148,1
+$ cd ..,,,$ cd ..,,,cd_check,148,1
+$ cd fvspj,,,$ cd fvspj,,,cd_check,148,1
+$ ls,,,$ ls,,list_check,,149,1
+207884 fvspj,,fvspj,,207884.0,,,149,1
+$ cd ..,,,$ cd ..,,,cd_check,149,1
+$ cd ..,,,$ cd ..,,,cd_check,149,1
+$ cd ..,,,$ cd ..,,,cd_check,149,1
+$ cd ..,,,$ cd ..,,,cd_check,149,1
+$ cd ..,,,$ cd ..,,,cd_check,149,1
+$ cd mtd,,,$ cd mtd,,,cd_check,149,1
+$ ls,,,$ ls,,list_check,,150,1
+dir mddvqd,mddvqd,,,,,,150,1
+dir tjhsj,tjhsj,,,,,,150,1
+$ cd mddvqd,,,$ cd mddvqd,,,cd_check,150,1
+$ ls,,,$ ls,,list_check,,151,1
+dir qldj,qldj,,,,,,151,1
+$ cd qldj,,,$ cd qldj,,,cd_check,151,1
+$ ls,,,$ ls,,list_check,,152,1
+211861 dmb,,dmb,,211861.0,,,152,1
+316204 lpv,,lpv,,316204.0,,,152,1
+$ cd ..,,,$ cd ..,,,cd_check,152,1
+$ cd ..,,,$ cd ..,,,cd_check,152,1
+$ cd tjhsj,,,$ cd tjhsj,,,cd_check,152,1
+$ ls,,,$ ls,,list_check,,153,1
+dir fhhbq,fhhbq,,,,,,153,1
+$ cd fhhbq,,,$ cd fhhbq,,,cd_check,153,1
+$ ls,,,$ ls,,list_check,,154,1
+151883 bbsd.mtl,,bbsd.mtl,,151883.0,,,154,1
+15864 dlfz.hgh,,dlfz.hgh,,15864.0,,,154,1
+242066 fvspj.trt,,fvspj.trt,,242066.0,,,154,1
+$ cd ..,,,$ cd ..,,,cd_check,154,1
+$ cd ..,,,$ cd ..,,,cd_check,154,1
+$ cd ..,,,$ cd ..,,,cd_check,154,1
+$ cd pcpf,,,$ cd pcpf,,,cd_check,154,1
+$ ls,,,$ ls,,list_check,,155,1
+85832 cllbb,,cllbb,,85832.0,,,155,1
+dir lpv,lpv,,,,,,155,1
+35378 nnz,,nnz,,35378.0,,,155,1
+167437 pwcvj.nqw,,pwcvj.nqw,,167437.0,,,155,1
+dir zrvqgv,zrvqgv,,,,,,155,1
+$ cd lpv,,,$ cd lpv,,,cd_check,155,1
+$ ls,,,$ ls,,list_check,,156,1
+194689 qrd.ctl,,qrd.ctl,,194689.0,,,156,1
+$ cd ..,,,$ cd ..,,,cd_check,156,1
+$ cd zrvqgv,,,$ cd zrvqgv,,,cd_check,156,1
+$ ls,,,$ ls,,list_check,,157,1
+316695 fspcfc.hcd,,,,316695.0,,,157,1
+164055 qtdswzdg.rfv,,qtdswzdg.rfv,,164055.0,,,157,1
+$ cd ..,,,$ cd ..,,,cd_check,157,1
+$ cd ..,,,$ cd ..,,,cd_check,157,1
+$ cd qfttswwv,,,$ cd qfttswwv,,,cd_check,157,1
+$ ls,,,$ ls,,list_check,,158,1
+10747 btj.sdn,,btj.sdn,,10747.0,,,158,1
+171061 cllbb,,cllbb,,171061.0,,,158,1
+dir tczrc,tczrc,,,,,,158,1
+dir vbzs,vbzs,,,,,,158,1
+$ cd tczrc,,,$ cd tczrc,,,cd_check,158,1
+$ ls,,,$ ls,,list_check,,159,1
+55851 bbsd.mtl,,bbsd.mtl,,55851.0,,,159,1
+238655 bjlcfcfq,,bjlcfcfq,,238655.0,,,159,1
+270809 gqrcsfp.srl,,gqrcsfp.srl,,270809.0,,,159,1
+dir hhjsmw,hhjsmw,,,,,,159,1
+dir pwcvj,pwcvj,,,,,,159,1
+92240 qtrdjb.lwj,,qtrdjb.lwj,,92240.0,,,159,1
+183588 twqfttnb.zft,,twqfttnb.zft,,183588.0,,,159,1
+$ cd hhjsmw,,,$ cd hhjsmw,,,cd_check,159,1
+$ ls,,,$ ls,,list_check,,160,1
+147282 lmdtnsmr,,lmdtnsmr,,147282.0,,,160,1
+$ cd ..,,,$ cd ..,,,cd_check,160,1
+$ cd pwcvj,,,$ cd pwcvj,,,cd_check,160,1
+$ ls,,,$ ls,,list_check,,161,1
+dir pwcvj,pwcvj,,,,,,161,1
+dir qncs,qncs,,,,,,161,1
+$ cd pwcvj,,,$ cd pwcvj,,,cd_check,161,1
+$ ls,,,$ ls,,list_check,,162,1
+173559 bbsd.mtl,,bbsd.mtl,,173559.0,,,162,1
+dir bjlcfcfq,bjlcfcfq,,,,,,162,1
+dir dhnpch,dhnpch,,,,,,162,1
+1035 fvspj.bnr,,fvspj.bnr,,1035.0,,,162,1
+89588 mcwjg.zwr,,mcwjg.zwr,,89588.0,,,162,1
+104459 qrd,,qrd,,104459.0,,,162,1
+dir sjzqb,sjzqb,,,,,,162,1
+$ cd bjlcfcfq,,,$ cd bjlcfcfq,,,cd_check,162,1
+$ ls,,,$ ls,,list_check,,163,1
+14879 cdttjfw,,,,14879.0,,,163,1
+$ cd ..,,,$ cd ..,,,cd_check,163,1
+$ cd dhnpch,,,$ cd dhnpch,,,cd_check,163,1
+$ ls,,,$ ls,,list_check,,164,1
+162094 lpv.gnt,,lpv.gnt,,162094.0,,,164,1
+$ cd ..,,,$ cd ..,,,cd_check,164,1
+$ cd sjzqb,,,$ cd sjzqb,,,cd_check,164,1
+$ ls,,,$ ls,,list_check,,165,1
+181343 qrd.grj,,qrd.grj,,181343.0,,,165,1
+$ cd ..,,,$ cd ..,,,cd_check,165,1
+$ cd ..,,,$ cd ..,,,cd_check,165,1
+$ cd qncs,,,$ cd qncs,,,cd_check,165,1
+$ ls,,,$ ls,,list_check,,166,1
+53083 rdvjhjjr.bbt,,rdvjhjjr.bbt,,53083.0,,,166,1
+$ cd ..,,,$ cd ..,,,cd_check,166,1
+$ cd ..,,,$ cd ..,,,cd_check,166,1
+$ cd ..,,,$ cd ..,,,cd_check,166,1
+$ cd vbzs,,,$ cd vbzs,,,cd_check,166,1
+$ ls,,,$ ls,,list_check,,167,1
+dir bjlcfcfq,bjlcfcfq,,,,,,167,1
+dir fvspj,fvspj,,,,,,167,1
+68372 jbgpjfp.rgf,,jbgpjfp.rgf,,68372.0,,,167,1
+dir lpv,lpv,,,,,,167,1
+dir mrlb,mrlb,,,,,,167,1
+275661 pwcvj,,pwcvj,,275661.0,,,167,1
+245928 pwcvj.vdn,,pwcvj.vdn,,245928.0,,,167,1
+$ cd bjlcfcfq,,,$ cd bjlcfcfq,,,cd_check,167,1
+$ ls,,,$ ls,,list_check,,168,1
+98693 lfhvbqbr.dhb,,lfhvbqbr.dhb,,98693.0,,,168,1
+$ cd ..,,,$ cd ..,,,cd_check,168,1
+$ cd fvspj,,,$ cd fvspj,,,cd_check,168,1
+$ ls,,,$ ls,,list_check,,169,1
+49016 sbdt.jvr,,sbdt.jvr,,49016.0,,,169,1
+$ cd ..,,,$ cd ..,,,cd_check,169,1
+$ cd lpv,,,$ cd lpv,,,cd_check,169,1
+$ ls,,,$ ls,,list_check,,170,1
+200303 gwdts,,gwdts,,200303.0,,,170,1
+208633 hbnt,,hbnt,,208633.0,,,170,1
+311252 lmdtnsmr,,lmdtnsmr,,311252.0,,,170,1
+dir pwcvj,pwcvj,,,,,,170,1
+142468 qrp.flq,,qrp.flq,,142468.0,,,170,1
+$ cd pwcvj,,,$ cd pwcvj,,,cd_check,170,1
+$ ls,,,$ ls,,list_check,,171,1
+292769 mpnbhc.pjd,,mpnbhc.pjd,,292769.0,,,171,1
+$ cd ..,,,$ cd ..,,,cd_check,171,1
+$ cd ..,,,$ cd ..,,,cd_check,171,1
+$ cd mrlb,,,$ cd mrlb,,,cd_check,171,1
+$ ls,,,$ ls,,list_check,,172,1
+294408 btj.sdn,,btj.sdn,,294408.0,,,172,1
+$ cd ..,,,$ cd ..,,,cd_check,172,1
+$ cd ..,,,$ cd ..,,,cd_check,172,1
+$ cd ..,,,$ cd ..,,,cd_check,172,1
+$ cd qrd,,,$ cd qrd,,,cd_check,172,1
+$ ls,,,$ ls,,list_check,,173,1
+dir gmfgrfh,gmfgrfh,,,,,,173,1
+dir hcmghq,hcmghq,,,,,,173,1
+189250 lpv.wpc,,lpv.wpc,,189250.0,,,173,1
+$ cd gmfgrfh,,,$ cd gmfgrfh,,,cd_check,173,1
+$ ls,,,$ ls,,list_check,,174,1
+236737 bbsd.mtl,,bbsd.mtl,,236737.0,,,174,1
+237212 btj.sdn,,btj.sdn,,237212.0,,,174,1
+288952 cllbb,,cllbb,,288952.0,,,174,1
+217475 jnq.dzb,,jnq.dzb,,217475.0,,,174,1
+180241 tfhhncs,,tfhhncs,,180241.0,,,174,1
+$ cd ..,,,$ cd ..,,,cd_check,174,1
+$ cd hcmghq,,,$ cd hcmghq,,,cd_check,174,1
+$ ls,,,$ ls,,list_check,,175,1
+dir fgw,fgw,,,,,,175,1
+130490 lpv.gnr,,lpv.gnr,,130490.0,,,175,1
+292092 pwcvj.fjl,,pwcvj.fjl,,292092.0,,,175,1
+$ cd fgw,,,$ cd fgw,,,cd_check,175,1
+$ ls,,,$ ls,,list_check,,176,1
+11097 cllbb,,cllbb,,11097.0,,,176,1
+dir fvz,fvz,,,,,,176,1
+dir qrtdvnvv,qrtdvnvv,,,,,,176,1
+$ cd fvz,,,$ cd fvz,,,cd_check,176,1
+$ ls,,,$ ls,,list_check,,177,1
+216721 bjlcfcfq,,bjlcfcfq,,216721.0,,,177,1
+$ cd ..,,,$ cd ..,,,cd_check,177,1
+$ cd qrtdvnvv,,,$ cd qrtdvnvv,,,cd_check,177,1
+$ ls,,,$ ls,,list_check,,178,1
+179262 lhtsg.hrn,,lhtsg.hrn,,179262.0,,,178,1
+$ cd ..,,,$ cd ..,,,cd_check,178,1
+$ cd ..,,,$ cd ..,,,cd_check,178,1
+$ cd ..,,,$ cd ..,,,cd_check,178,1
+$ cd ..,,,$ cd ..,,,cd_check,178,1
+$ cd zwqgg,,,$ cd zwqgg,,,cd_check,178,2
+$ ls,,,$ ls,,list_check,,179,2
+dir gqpfcv,gqpfcv,,,,,,179,2
+dir lpv,lpv,,,,,,179,2
+dir qtgqnqh,qtgqnqh,,,,,,179,2
+$ cd gqpfcv,,,$ cd gqpfcv,,,cd_check,179,2
+$ ls,,,$ ls,,list_check,,180,2
+dir mwzt,mwzt,,,,,,180,2
+$ cd mwzt,,,$ cd mwzt,,,cd_check,180,2
+$ ls,,,$ ls,,list_check,,181,2
+302445 fvspj,,fvspj,,302445.0,,,181,2
+$ cd ..,,,$ cd ..,,,cd_check,181,2
+$ cd ..,,,$ cd ..,,,cd_check,181,2
+$ cd lpv,,,$ cd lpv,,,cd_check,181,2
+$ ls,,,$ ls,,list_check,,182,2
+38004 vrcbm.qtb,,vrcbm.qtb,,38004.0,,,182,2
+$ cd ..,,,$ cd ..,,,cd_check,182,2
+$ cd qtgqnqh,,,$ cd qtgqnqh,,,cd_check,182,2
+$ ls,,,$ ls,,list_check,,183,2
+175846 pwcvj.bpm,,pwcvj.bpm,,175846.0,,,183,2
