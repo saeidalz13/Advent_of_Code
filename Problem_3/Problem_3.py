@@ -57,7 +57,7 @@ def solve(df):
             if df.loc[row, 'similar_letter'] == l:
                 df.loc[row, 'score'] = n
 
-    solution_1 = df.score.sum() 
+    solution_1 = int(df.score.sum())
 
 
     ######################## Second Section ########################
@@ -96,16 +96,35 @@ def solve(df):
             if part2_df.loc[row, 'similar_letters'] == l:
                 part2_df.loc[row, 'score'] = n
 
-    solution_2 = part2_df.score.sum()
+    solution_2 = int(part2_df.score.sum())
     return df, solution_1, solution_2, 
-#
-    
+
+
+def write_output(
+                path_output,
+                solution_1, 
+                solution_2, 
+                ):
+    file = file = path_output + fr'/solutions.txt'
+    with open(file, 'w') as f:
+        f.write('==============================================================================\n\n')
+        f.write('The solution, Section 1:\n')
+        f.write('\n')
+        f.write(f'--> {solution_1}')
+        f.write('\n\n')
+        f.write('The solution, Section 2:\n')
+        f.write('\n')
+        f.write(f'--> {solution_2}')
+
+
 def main():
     DF = read_data(pathname=PATHNAME)
     _, SOLUTION_1, SOLUTION_2 = solve(df=DF)
-    # print(DF_FINAL)
-    print(f'The solution to the first section is: {SOLUTION_1}')
-    print(f'The solution to the second section is: {SOLUTION_2}')
+    write_output(
+        path_output=PATH_OUTPUT,
+        solution_1=SOLUTION_1,
+        solution_2=SOLUTION_2,
+    )
 
     pass
 

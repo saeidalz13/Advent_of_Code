@@ -6,6 +6,7 @@ PATH_OUTPUT = r'output'
 PATHNAME = r'input.txt'
 PATHNAME_MOVE = r'move.csv'
 
+# NOTE: Logger will overwrite the log.file
 
 
 logger = logging.getLogger(__name__)
@@ -15,7 +16,8 @@ def initialize_logging(filename: str, logging_level=logging.DEBUG):
                         filename=filename,
                         level=logging_level,
                         format= '%(asctime)s | %(name)s | %(funcName)s -->  %(message)s',
-                        datefmt= '%Y-%m-%d %H:%M:%S %Z'
+                        datefmt= '%Y-%m-%d %H:%M:%S %Z',
+                        filemode='w',
                         )
 
     pass
@@ -67,25 +69,26 @@ def solve(df_letters, df_move):
         col_to_ls = base[int(t)-1]
         try:
             last_valid_idx_fr = max([index for index, item in enumerate(col_fr_ls) if item != ''])
-            logger.debug(f'{_iter} last non_empty index is {last_valid_idx_fr}')
+            logger.info(f'Iteration No. {_iter}')
+            logger.info(f'last non_empty index is {last_valid_idx_fr}')
         except Exception as e:
-            pass
-            print(f'Error --> {e}')
+            logger.exception('ERROR! This list is empty, there is no non-empty string in it')
         else:
 
 ################################################ First Section ################################################
-            tt = col_fr_ls[last_valid_idx_fr+1-n: last_valid_idx_fr+1]
-            transfer= list(reversed(tt))            
+            # tt = col_fr_ls[last_valid_idx_fr+1-n: last_valid_idx_fr+1]
+            # transfer= list(reversed(tt))            
 
 ################################################ Second Section ################################################
-            # transfer = col_fr_ls[last_valid_idx_fr+1-n: last_valid_idx_fr+1]
+            transfer = col_fr_ls[last_valid_idx_fr+1-n: last_valid_idx_fr+1]
            
             col_to_ls.extend(transfer)
             col_fr_ls = col_fr_ls[:last_valid_idx_fr+1-n]
             base[int(f)-1] = col_fr_ls
             base[int(t)-1] = col_to_ls
-            logger.debug(f'{_iter} from_col is{base[int(f)-1]}')
-            logger.debug(f'{_iter} to_col is{base[int(t)-1]}')
+            logger.info(f'from_col is {base[int(f)-1]}')
+            logger.info(f'to_col is {base[int(t)-1]}')
+            logger.info('Iteration complete! \n')
         
 
 
@@ -97,19 +100,34 @@ def solve(df_letters, df_move):
     return numbers , transfer, base, final_list
 
 
+def write_output(
+                    path_output,
+                    final_list,
+                    section,
+                ):
+    
+    file = path_output + fr'/solutions_{section}.txt'
+    with open(file, 'w') as f:
+        f.write('==============================================================================\n\n')
+        f.write('The solution, Section 1:\n')
+        f.write('\n')
+        f.write(f'--> {final_list}')
+
+        pass
+
+
 def main():
-    LOG_FILE = PATH_OUTPUT + fr'/lists.log'
+    LOG_FILE = PATH_OUTPUT + fr'/lists_2.log'
     initialize_logging(LOG_FILE)   
     DF_LETTERS = read_data_letters(PATHNAME)
     MOVE = read_moves(PATHNAME_MOVE)
-    NUM, TRANSFER, ALL_COLS, FINAL_LIST = solve(DF_LETTERS, MOVE)
-    # print(list(_1[8]))
+    NUM, TRANSFER, BASE, FINAL_LIST = solve(DF_LETTERS, MOVE)
 
-    print(TRANSFER)
-    print(FINAL_LIST)
-    print(ALL_COLS)
-    # print(MOVE)
-    # print(DF_LETTERS)
+    write_output(
+        path_output=PATH_OUTPUT,
+        final_list=FINAL_LIST,
+        section=2,
+        )
     pass
 
 

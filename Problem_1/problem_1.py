@@ -1,29 +1,15 @@
 import pandas as pd
 import numpy as np
-import requests
-from bs4 import BeautifulSoup
+
 
 PATH_OUTPUT = 'output'
-PATHNAME = r'output/input.txt'
-
-def get_data():
-    r = requests.get(r'https://adventofcode.com/2022/day/1/input')
-    return r
+PATHNAME = r'input.txt'
 
 
-
-def parse_data(
-        r,
-        path_output
-        ):
-    soup = BeautifulSoup(r.text, 'html.parser')
-    with open(path_output + r'/input', 'w') as f:
-        f.write(soup.text)
-    pass
-
-def read_data(
+def clean_data_and_solve(
         pathname:str,
             ):
+    # Read and clean up the data:
     with open(pathname, 'r') as f:
         content = f.readlines()
         df = pd.DataFrame(content)
@@ -36,6 +22,7 @@ def read_data(
         df = df.astype({'values': 'float32'})
         df.loc[df['values'].isna(), 'marker'] = 'checkpoint'
 
+    # Create a checkpoint before every na-value
         idx = 0
         df['index'] = None
         for row in np.arange(len(df)):
@@ -43,30 +30,51 @@ def read_data(
                 idx += 1
             df.loc[row,'index'] = str(idx)
         
+    # Use the checkpoints to identify different groups to be able to use ".groupby"
+
         df.loc[df['marker'] == 'checkpoint','index'] = str(9999)
         df.to_csv('DF.csv', header=True, index=False)
         grp = df.groupby(by = 'index').sum()
         grp.to_csv('GRP.csv', header=True, index=False)
 
-        problem_1 = grp['values'].max()
+        solution_1 = int(grp['values'].max())
         sorted_df = grp['values'].sort_values(ascending=False)
 
-        problem_2 = sorted_df.iloc[0] + sorted_df.iloc[1] + sorted_df.iloc[2]
-    return df, grp, problem_1, problem_2
+        solution_2 = int(sorted_df.iloc[0] + sorted_df.iloc[1] + sorted_df.iloc[2])
+
+    return df, grp, solution_1, solution_2
 
 
-def solve_problem():
+
+def write_output(
+                path_output,
+                solution_1,
+                solution_2,
+                ):
+    file = file = path_output + fr'/solutions.txt'
+    with open(file, 'w') as f:
+        f.write('==============================================================================\n\n')
+        f.write('The solution, Section 1:\n')
+        f.write('\n')
+        f.write(f'--> {solution_1}')
+        f.write('\n\n')
+        f.write('The solution, Section 2:\n')
+        f.write('\n')
+        f.write(f'--> {solution_2}')
     pass
 
 
+
 def main():
-    # R = get_data()
-    # parse_data(R, path_output=PATH_OUTPUT)
-    DF, GRP, PROBLEM_1, PROBLEM_2 = read_data(pathname=PATHNAME)
-    print(DF.head(30))
-    print(GRP)
-    print(f'Solution to problem 1 is = {PROBLEM_1}')
-    print(f'Solution to problem 2 is = {PROBLEM_2}')
+    DF, GRP, SOLUTION_1, SOLUTION_2 = clean_data_and_solve(pathname=PATHNAME)
+
+    write_output(
+                path_output=PATH_OUTPUT,
+                solution_1=SOLUTION_1,
+                solution_2=SOLUTION_2,
+                )
+    print(f'Solution to problem 1 is = {SOLUTION_1}')
+    print(f'Solution to problem 2 is = {SOLUTION_2}')
     pass
 
 

@@ -84,10 +84,26 @@ def scores(df:pd.DataFrame):
     return df, final_sol
   
 
+def write_output(
+                path_output,
+                final_sol,
+                ):
+    file = path_output + fr'/solutions_2.txt'
+    with open(file, 'w') as f:
+        f.write('==============================================================================\n\n')
+        f.write('The solution, Section 1:\n')
+        f.write('\n')
+        f.write(f'--> {final_sol}')
+
+
+
 def main():
     DF = read_data(pathname=PATHNAME)
     DF_FINAL, FINAL_SOL = scores(df=DF)
-    # print(DF_FINAL)
+    write_output(
+        path_output=PATH_OUTPUT,
+        final_sol=FINAL_SOL
+    )
     print(f'The final solution is: {FINAL_SOL}')
     pass
 

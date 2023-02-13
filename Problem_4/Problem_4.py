@@ -37,36 +37,60 @@ def solve(df):
 
 
         ######################## First Section ########################
-        # final_ls = list()
-        # for p1, p2 in zip(range_p1_ls, range_p2_ls):
-        #     if set(p2).issubset(set(p1)) or set(p1).issubset(set(p2)):
-        #         final_ls.append(True)
-        #     else:
-        #         final_ls.append(False)
+        final_ls_1 = list()
+        for p1, p2 in zip(range_p1_ls, range_p2_ls):
+            if set(p2).issubset(set(p1)) or set(p1).issubset(set(p2)):
+                final_ls_1.append(True)
+            else:
+                final_ls_1.append(False)
 
-        # solution = final_ls.count(True)
+        solution_1 = final_ls_1.count(True)
 
 
 
         ######################## Second Section ########################
-        final_ls = list()
+        final_ls_2 = list()
         for p1, p2 in zip(range_p1_ls, range_p2_ls):
             if set(p2).intersection(set(p1)):
-                final_ls.append(True)
+                final_ls_2.append(True)
             else:
-                final_ls.append(False)
+                final_ls_2.append(False)
 
-        solution = final_ls.count(True)
+        solution_2 = final_ls_2.count(True)
 
 
-    return df, range_p1_ls, range_p2_ls, final_ls, solution
+    return df, range_p1_ls, range_p2_ls,  solution_1, solution_2
+
+
+
+def write_output(
+        path_output,
+        solution_1,
+        solution_2,
+                ):
+    file = file = path_output + fr'/solutions.txt'
+    with open(file, 'w') as f:
+        f.write('==============================================================================\n\n')
+        f.write('The solution, Section 1:\n')
+        f.write('\n')
+        f.write(f'--> {solution_1}')
+        f.write('\n\n')
+        f.write('The solution, Section 2:\n')
+        f.write('\n')
+        f.write(f'--> {solution_2}')
+
+    pass
 
 
 
 def main():
     DF = read_data(pathname=PATHNAME)
-    DF_FINAL, LSP1, LSP2, FINAL_LS, SOLUTION_1 = solve(DF)
-    print(SOLUTION_1)
+    _, _, _, SOLUTION_2, SOLUTION_1 = solve(DF)
+    write_output(
+        path_output=PATH_OUTPUT,
+        solution_1=SOLUTION_1,
+        solution_2=SOLUTION_2,
+    )
     pass
 
 
