@@ -13,6 +13,7 @@ def read_input(
     text.columns = ['text']
     return text
 
+
 def analyze_data(df):
     df['directories'] = None
     df['files'] = None
@@ -69,8 +70,14 @@ def analyze_data(df):
     parent_dirs_ls = list(parent_dirs)
 
     df['parent_dirs'] = None
-    df.loc[ (df['directories'].isin(parent_dirs_ls)) & ((df['all_dirs_checked'] != '0') | (df['all_dirs_checked'] != '1')),'parent_dirs'] = 'parent'
+    df.loc[ (df['directories'].isin(parent_dirs_ls)) & (df['all_dirs_checked'] == '1'),'parent_dirs'] = 'parent'
 
+    df['sub_dirs']= None
+    for dir in parent_dirs_ls:
+        df.loc[df['commands'].str.contains(f'{dir}', na=False),'sub_dirs'] = f'sub_{dir}'
+
+
+    # print(df.loc[df['commands'].str.contains('blgtdv', na=False),:])
     return df, dirs, files_size, grp, parent_dirs_ls
 
 
@@ -91,10 +98,10 @@ def main():
     # print(DIRS)
     # print(FILES_SIZE)
     print(PARENT_DIRS)
-    # write_output(
-    #     path_output=PATH_OUTPUT,
-    #     df= DF
-    # )
+    write_output(
+        path_output=PATH_OUTPUT,
+        df= DF
+    )
     pass
 
 
