@@ -1,6 +1,6 @@
 import pandas as pd
 import logging
-from tqdm import tqdm
+from time import time
 
 PATH_OUTPUT = r'output'
 PATHNAME = r'input.txt'
@@ -60,13 +60,13 @@ def solve(df_letters, df_move):
         all_cols.append(ls)
 
 
-    base = all_cols
-    for n,ls in enumerate(base):
-        base[n] = [s for s in ls if s]
+    crates = all_cols
+    for n,ls in enumerate(crates):
+        crates[n] = [s for s in ls if s]
  
-    for _iter, (n, f, t) in tqdm(enumerate(zip(numbers, col_from, col_to), start=1), total = len(numbers)):
-        col_fr_ls = base[int(f)-1]
-        col_to_ls = base[int(t)-1]
+    for _iter, (n, f, t) in (enumerate(zip(numbers, col_from, col_to), start=1)):
+        col_fr_ls = crates[int(f)-1]
+        col_to_ls = crates[int(t)-1]
         try:
             last_valid_idx_fr = max([index for index, item in enumerate(col_fr_ls) if item != ''])
             logger.info(f'Iteration No. {_iter}')
@@ -84,20 +84,20 @@ def solve(df_letters, df_move):
            
             col_to_ls.extend(transfer)
             col_fr_ls = col_fr_ls[:last_valid_idx_fr+1-n]
-            base[int(f)-1] = col_fr_ls
-            base[int(t)-1] = col_to_ls
-            logger.info(f'from_col is {base[int(f)-1]}')
-            logger.info(f'to_col is {base[int(t)-1]}')
+            crates[int(f)-1] = col_fr_ls
+            crates[int(t)-1] = col_to_ls
+            logger.info(f'from_col is {crates[int(f)-1]}')
+            logger.info(f'to_col is {crates[int(t)-1]}')
             logger.info('Iteration complete! \n')
         
 
 
     final_list = list()
-    for ls in base:
+    for ls in crates:
         final_list.append(next(s for s in reversed(ls) if s))
 
-    base = pd.DataFrame(base).T
-    return numbers , transfer, base, final_list
+    crates = pd.DataFrame(crates).T
+    return numbers , transfer, crates, final_list
 
 
 def write_output(
@@ -117,6 +117,7 @@ def write_output(
 
 
 def main():
+    START = time()
     LOG_FILE = PATH_OUTPUT + fr'/lists_2.log'
     initialize_logging(LOG_FILE)   
     DF_LETTERS = read_data_letters(PATHNAME)
@@ -128,6 +129,9 @@ def main():
         final_list=FINAL_LIST,
         section=2,
         )
+    
+    END = time()
+    print(f'Elapsed time is: {END - START}')
     pass
 
 

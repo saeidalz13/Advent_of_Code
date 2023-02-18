@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-
+from time import time
 
 PATH_OUTPUT = 'output'
 PATHNAME = r'input.txt'
@@ -66,6 +66,7 @@ def write_output(
 
 
 def main():
+    start= time()
     DF, GRP, SOLUTION_1, SOLUTION_2 = clean_data_and_solve(pathname=PATHNAME)
 
     write_output(
@@ -75,6 +76,8 @@ def main():
                 )
     print(f'Solution to problem 1 is = {SOLUTION_1}')
     print(f'Solution to problem 2 is = {SOLUTION_2}')
+    end = time()
+    print(f'Elapsed time was {end - start:.7f}')
     pass
 
 
