@@ -30,7 +30,8 @@ def read_crates(pathname:str):
 
 
 def edit_crates(crates):
-    crates = [string.replace(']','').replace('[','').replace('\n','').split(',') for string in crates]
+
+    crates = [string.replace(']','').replace('[','').replace('\n','').replace(' ','').split(',') for string in crates]
     edited_crates = (list(map(list, itertools.zip_longest(*crates, fillvalue=None))))
 
     edited_crates = [list(reversed(ls)) for ls in edited_crates]
@@ -71,8 +72,7 @@ def edit_moves(moves:list):
 def solve(crates, actions, which_section):
 
     for n, ls in enumerate(crates):
-        ls_edited = [string.replace(' ','') for string in ls]
-        ls_edited = [s for s in ls_edited if s]
+        ls_edited = [s for s in ls if s]
         crates[n] = ls_edited
     
     numbers_to_move = actions['moves']
@@ -183,7 +183,7 @@ def main():
     MOVES_RAW = read_moves(PATHNAME_MOVE)
     MOVES = edit_moves(MOVES_RAW)
     SOLUTION = solve(CRATES, MOVES, SECTION)
-
+    
     write_output(
         path_output=PATH_OUTPUT,
         solution=SOLUTION,

@@ -1,4 +1,5 @@
 import pandas as pd
+from time import time
 
 PATH_OUTPUT = r'output'
 PATHNAME = r'input.csv'
@@ -34,49 +35,49 @@ def scores(df:pd.DataFrame):
     ######################## First Section ########################
 
 
-    # df.loc[ df['mychoice'] == 'X', 'mychoice'] = 'rock'
-    # df.loc[ df['mychoice'] == 'Y', 'mychoice'] = 'paper'
-    # df.loc[ df['mychoice'] == 'Z', 'mychoice'] = 'sci'
+    df.loc[ df['mychoice'] == 'X', 'mychoice'] = 'rock'
+    df.loc[ df['mychoice'] == 'Y', 'mychoice'] = 'paper'
+    df.loc[ df['mychoice'] == 'Z', 'mychoice'] = 'sci'
 
     
-    # df.loc[ df['mychoice'] == 'rock', 'mychoice_score'] = 1
-    # df.loc[ df['mychoice'] == 'paper', 'mychoice_score'] = 2
-    # df.loc[ df['mychoice'] == 'sci', 'mychoice_score'] = 3
+    df.loc[ df['mychoice'] == 'rock', 'mychoice_score'] = 1
+    df.loc[ df['mychoice'] == 'paper', 'mychoice_score'] = 2
+    df.loc[ df['mychoice'] == 'sci', 'mychoice_score'] = 3
 
-    # # 3 is draw
-    # df.loc[ df['mychoice'] == df['opponent'], 'outcome'] = 3
+    # 3 is draw
+    df.loc[ df['mychoice'] == df['opponent'], 'outcome'] = 3
 
-    # # 6 is win
-    # df.loc[ (df['mychoice'] == 'rock' ) & (df['opponent'] == 'sci') , 'outcome'] = 6
-    # df.loc[ (df['mychoice'] == 'sci' ) & (df['opponent'] == 'paper') , 'outcome'] = 6
-    # df.loc[ (df['mychoice'] == 'paper' ) & (df['opponent'] == 'rock') , 'outcome'] = 6
+    # 6 is win
+    df.loc[ (df['mychoice'] == 'rock' ) & (df['opponent'] == 'sci') , 'outcome'] = 6
+    df.loc[ (df['mychoice'] == 'sci' ) & (df['opponent'] == 'paper') , 'outcome'] = 6
+    df.loc[ (df['mychoice'] == 'paper' ) & (df['opponent'] == 'rock') , 'outcome'] = 6
 
-    # # 0 is lost
-    # df.loc[ (df['mychoice'] == 'sci') & (df['opponent'] == 'rock') , 'outcome'] = 0
-    # df.loc[ (df['mychoice'] == 'paper') & (df['opponent'] == 'sci') , 'outcome'] = 0
-    # df.loc[ (df['mychoice'] == 'rock') & (df['opponent'] == 'paper') , 'outcome'] = 0
+    # 0 is lost
+    df.loc[ (df['mychoice'] == 'sci') & (df['opponent'] == 'rock') , 'outcome'] = 0
+    df.loc[ (df['mychoice'] == 'paper') & (df['opponent'] == 'sci') , 'outcome'] = 0
+    df.loc[ (df['mychoice'] == 'rock') & (df['opponent'] == 'paper') , 'outcome'] = 0
 
 
     ######################## Second Section ########################
 
-    df.loc[ df['mychoice'] == 'X', 'outcome'] = 0
-    df.loc[ df['mychoice'] == 'Y', 'outcome'] = 3
-    df.loc[ df['mychoice'] == 'Z', 'outcome'] = 6
+    # df.loc[ df['mychoice'] == 'X', 'outcome'] = 0
+    # df.loc[ df['mychoice'] == 'Y', 'outcome'] = 3
+    # df.loc[ df['mychoice'] == 'Z', 'outcome'] = 6
 
-    df.loc[:,'mychoice'] = None
-    df.loc[df['outcome'] == 3 , 'mychoice'] = df['opponent']
+    # df.loc[:,'mychoice'] = None
+    # df.loc[df['outcome'] == 3 , 'mychoice'] = df['opponent']
 
-    df.loc[ (df['outcome'] == 6) & (df['opponent'] == 'rock') , 'mychoice'] = 'paper'
-    df.loc[ (df['outcome'] == 6) & (df['opponent'] == 'paper') , 'mychoice'] = 'sci'
-    df.loc[ (df['outcome'] == 6) & (df['opponent'] == 'sci') , 'mychoice'] = 'rock'
+    # df.loc[ (df['outcome'] == 6) & (df['opponent'] == 'rock') , 'mychoice'] = 'paper'
+    # df.loc[ (df['outcome'] == 6) & (df['opponent'] == 'paper') , 'mychoice'] = 'sci'
+    # df.loc[ (df['outcome'] == 6) & (df['opponent'] == 'sci') , 'mychoice'] = 'rock'
 
-    df.loc[ (df['outcome'] == 0) & (df['opponent'] == 'rock') , 'mychoice'] = 'sci'
-    df.loc[ (df['outcome'] == 0) & (df['opponent'] == 'paper') , 'mychoice'] = 'rock'
-    df.loc[ (df['outcome'] == 0) & (df['opponent'] == 'sci') , 'mychoice'] = 'paper'
+    # df.loc[ (df['outcome'] == 0) & (df['opponent'] == 'rock') , 'mychoice'] = 'sci'
+    # df.loc[ (df['outcome'] == 0) & (df['opponent'] == 'paper') , 'mychoice'] = 'rock'
+    # df.loc[ (df['outcome'] == 0) & (df['opponent'] == 'sci') , 'mychoice'] = 'paper'
 
-    df.loc[ df['mychoice'] == 'rock', 'mychoice_score'] = 1
-    df.loc[ df['mychoice'] == 'paper', 'mychoice_score'] = 2
-    df.loc[ df['mychoice'] == 'sci', 'mychoice_score'] = 3
+    # df.loc[ df['mychoice'] == 'rock', 'mychoice_score'] = 1
+    # df.loc[ df['mychoice'] == 'paper', 'mychoice_score'] = 2
+    # df.loc[ df['mychoice'] == 'sci', 'mychoice_score'] = 3
 
     df['finalscore'] = df['mychoice_score'] + df['outcome']
     final_sol = df['finalscore'].sum()
@@ -98,13 +99,15 @@ def write_output(
 
 
 def main():
+    S= time()
     DF = read_data(pathname=PATHNAME)
     DF_FINAL, FINAL_SOL = scores(df=DF)
-    write_output(
-        path_output=PATH_OUTPUT,
-        final_sol=FINAL_SOL
-    )
-    print(f'The final solution is: {FINAL_SOL}')
+    # write_output(
+    #     path_output=PATH_OUTPUT,
+    #     final_sol=FINAL_SOL
+    # )
+    E = time()
+    print(f'The final solution is: {FINAL_SOL} TIME: {E-S}')
     pass
 
 
