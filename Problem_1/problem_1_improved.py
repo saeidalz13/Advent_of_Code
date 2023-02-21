@@ -1,21 +1,25 @@
-from typing import List
-from time import time
+from typing import List, NoReturn
 
 
 PATH_OUTPUT = 'output'
 PATHNAME = r'input.txt'
 
 
-def read_input(pathname):
+def read_input(pathname:str) -> str:
+    """
+    Reading in the input file
+    """
     with open(pathname, 'r') as f:
         input = list(f.readlines())
     return input
 
 
 
-def make_elements_int(element):
+def make_elements_int(element:str) -> int:
     """
-    To convert the elements in the input to integers
+    1. Removing the char \n from the input element
+    2. Converting the input arg to an integer
+    
     """
     mod_element = element.replace('\n','')
     if mod_element != '':
@@ -25,7 +29,12 @@ def make_elements_int(element):
     
 
 
-def solve(input:List):
+def solve(input:List[str]) -> tuple:
+    """
+    Returning the solutions to section 1 and 2 of the problem 1
+    solution 1 --> Maximum values of calories among all elves
+    solution 2 --> Sum of the first top 3 calories
+    """
     edited_input = list(map(make_elements_int, input))
 
     each_elf_calories = list()
@@ -48,10 +57,13 @@ def solve(input:List):
 
 
 def write_output(
-                path_output,
-                solution_1,
-                solution_2,
-                ):
+                path_output:str,
+                solution_1:int,
+                solution_2:int,
+                ) -> NoReturn:
+    """
+    Writing the solutions into a text file called solutiins.txt
+    """
     file = file = path_output + fr'/solutions.txt'
     with open(file, 'w') as f:
         f.write('==============================================================================\n\n')
@@ -67,7 +79,6 @@ def write_output(
 
 def main():
     
-    start= time()
     INPUT = read_input(PATHNAME)
     SOLUTION_1, SOLUTION_2 = solve(INPUT)
     print(f'Maximum Calories --> {SOLUTION_1}')
@@ -77,8 +88,7 @@ def main():
                 solution_1=SOLUTION_1,
                 solution_2=SOLUTION_2,
                 )
-    end = time()
-    print(f'Elapsed time was {end - start:.7f}')
+
 
 
 if __name__ == '__main__':main()

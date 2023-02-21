@@ -1,18 +1,27 @@
+################### User Config ###################
+# Choose which section to be solved (Choice of 1 or 2)
+SECTION = 1
+
+# NOTE: Logger will overwrite the log.file
+###################################################
+
 import logging
 import itertools
-from time import time
+from typing import List, NoReturn, Dict
 
 PATH_OUTPUT = r'output'
 PATHNAME_CRATE = r'input.txt'
 PATHNAME_MOVE = r'move.csv'
-SECTION = 1
-
-# NOTE: Logger will overwrite the log.file
-
 
 logger = logging.getLogger(__name__)
-def initialize_logging(filename: str, logging_level=logging.DEBUG):
 
+
+
+
+def initialize_logging(filename: str, logging_level=logging.DEBUG) -> NoReturn:
+    """
+    Initialzing the logger
+    """
     logging.basicConfig(
                             filename=filename,
                             level=logging_level,
@@ -23,13 +32,21 @@ def initialize_logging(filename: str, logging_level=logging.DEBUG):
     pass
 
 
-def read_crates(pathname:str):
+def read_crates(pathname:str) -> List[str]:
+    """
+    Reading in the input file for crates info
+    """
     with open('input.txt', 'r') as f:
         crates = list(f.readlines())
     return crates
 
 
-def edit_crates(crates):
+def edit_crates(crates:List[str]) -> List[List[str]]:
+    """
+    Editing the crates list elements
+    1. Removing the brackets and char \n in the crates lists
+    2. Transposing the parent list to have every slot of crates as a list
+    """
 
     crates = [string.replace(']','').replace('[','').replace('\n','').replace(' ','').split(',') for string in crates]
     edited_crates = (list(map(list, itertools.zip_longest(*crates, fillvalue=None))))
@@ -39,14 +56,24 @@ def edit_crates(crates):
     
 
 
-def read_moves(pathname):
+def read_moves(pathname:str) -> List[str]:
+    """
+    Reading in the required actions/moves input text file
+    """
     with open(pathname, 'r') as f:
         moves = list(f.readlines())
     return moves
 
 
 
-def edit_moves(moves:list):
+def edit_moves(moves:List[str]) -> Dict:
+    """
+    Putting the required actions dictated by the input file\
+        into a dictionary with their corresponding keys
+
+    This would help us to access the actions for each column/slot \
+        of crates more easily
+    """
     actions = dict()
     _moves = list()
     _from = list()
@@ -69,8 +96,14 @@ def edit_moves(moves:list):
 
 
 
-def solve(crates, actions, which_section):
-
+def solve(
+        crates: List[List[str]], 
+        actions :Dict,
+        which_section: int,
+        ) -> List[str]:
+    """
+    Using the actions dictionary and crates list to solve the problem
+    """
     for n, ls in enumerate(crates):
         ls_edited = [s for s in ls if s]
         crates[n] = ls_edited
@@ -158,10 +191,10 @@ def solve(crates, actions, which_section):
 
 
 def write_output(
-                    path_output,
-                    solution,
-                    section,
-                ):
+                    path_output: str,
+                    solution: List[str],
+                    section: int,
+                ) -> NoReturn:
     
     file = path_output + fr'/solutions_{section}.txt'
     with open(file, 'w') as f:
@@ -173,7 +206,6 @@ def write_output(
 
 
 def main():
-    START = time()
 
     LOG_FILE = PATH_OUTPUT + fr'/lists_{SECTION}.log'
     initialize_logging(LOG_FILE)  
@@ -190,8 +222,6 @@ def main():
         section=SECTION,
         )
     
-    END = time()
-    print(f'Elapsed time is: {END - START}')
     pass
 
 
